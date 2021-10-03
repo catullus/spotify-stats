@@ -2,8 +2,9 @@
 title: "Cody's Spotify Stats 2021"
 output:
   github_document:
-    html_preview: true
-allows_allow_html: true
+      toc: true
+      toc_depth: 2
+always_allow_html: true
 ---
 
 ```{r include=FALSE}
