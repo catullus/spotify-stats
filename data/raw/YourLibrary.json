@@ -1,0 +1,5556 @@
+{
+  "tracks": [
+    {
+      "artist": "Portugal. The Man",
+      "album": "Evil Friends Remix EP",
+      "track": "Evil Friends (feat. Danny Brown) - Jake One Remix",
+      "uri": "spotify:track:7wQB9MXmWvzrieBO481NW3"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "My Eyes",
+      "uri": "spotify:track:34WAdNQOUeGjgFOZshew1e"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Reichpop",
+      "uri": "spotify:track:4Wu2nhBtwphh8rY2lY5pkh"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Nobody Knows My Trouble",
+      "uri": "spotify:track:5qyIIrOLV5CCi4YzicRdwT"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Here I Am",
+      "uri": "spotify:track:2yVhdgjCt0T2keTR1YlKEp"
+    },
+    {
+      "artist": "Really From",
+      "album": "Verse",
+      "track": "You Need a Visa",
+      "uri": "spotify:track:2tplOm88v2jv07K4WTUyKD"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "A Case of You",
+      "uri": "spotify:track:7shVwhUdVbHpykOfbzvDc1"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Spark",
+      "uri": "spotify:track:56gyThTeNsbEGb8fPbHWKh"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Jealousy",
+      "uri": "spotify:track:2QSGZpLHSoipoAumtNvkQf"
+    },
+    {
+      "artist": "Dayglow",
+      "album": "Harmony House",
+      "track": "Close To You",
+      "uri": "spotify:track:0brBOx8ejPXvBYnQkWquYK"
+    },
+    {
+      "artist": "Tay-K",
+      "album": "#SantanaWorld (+)",
+      "track": "Gotta Blast (feat. Diego Money & Bandman Fari)",
+      "uri": "spotify:track:7de1qGSxUfnKLNqncRksuk"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Burnt to a Shell",
+      "uri": "spotify:track:6A8c37DQVEHlVkx62h6ZKz"
+    },
+    {
+      "artist": "Scorpions",
+      "album": "Crazy World",
+      "track": "Wind Of Change",
+      "uri": "spotify:track:6wjSNO6uJYlgbbfauyWhiw"
+    },
+    {
+      "artist": "Duett",
+      "album": "Borderline",
+      "track": "Julienne",
+      "uri": "spotify:track:5YKx0dxjxwzUvHEAqugaXG"
+    },
+    {
+      "artist": "[ocean jams]",
+      "album": "Locales",
+      "track": "Nova",
+      "uri": "spotify:track:3T1XiXsh1d6ZK7nJTxf50s"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Irene",
+      "uri": "spotify:track:7rAjeWkQM6cLqbPjZtXxl2"
+    },
+    {
+      "artist": "Jank",
+      "album": "Versace Summer",
+      "track": "Versace Summer",
+      "uri": "spotify:track:614SyP4aFacmQOtY0vQ5h6"
+    },
+    {
+      "artist": "Ten Fé",
+      "album": "Elodie",
+      "track": "Elodie",
+      "uri": "spotify:track:4NP9hWxULyB4OYoUMjazz1"
+    },
+    {
+      "artist": "Turnover",
+      "album": "Peripheral Vision",
+      "track": "Diazepam",
+      "uri": "spotify:track:7shMC2T23tDlP4WT2rDmVB"
+    },
+    {
+      "artist": "Pete Seeger",
+      "album": "Pete Seeger: A Link In The Chain",
+      "track": "Where Have All the Flowers Gone? - Live",
+      "uri": "spotify:track:0Kl6MoQqbE2brrpdWcXrNe"
+    },
+    {
+      "artist": "Nikki Lane",
+      "album": "All Or Nothin'",
+      "track": "Right Time",
+      "uri": "spotify:track:745d5FAEdoDfYg3gHFK1Ct"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Shallow Water",
+      "uri": "spotify:track:2Rpnniney0S8Y3zR4CLCSv"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Never Ever",
+      "uri": "spotify:track:1FbgpDoHpsZtKNLGLWLMN7"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "Blue",
+      "uri": "spotify:track:1yWIsH3TC51gmzvQxZNCQC"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Climbing",
+      "uri": "spotify:track:2LLBgxemPakt3NuGEiLtES"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "From The Ground",
+      "uri": "spotify:track:4Hg2p5WhkmqAPASAGaZ7YA"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Big Difference",
+      "uri": "spotify:track:2A49kMRJc2ZB5MuGKZ5ojU"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Freetown Sound",
+      "track": "Augustine",
+      "uri": "spotify:track:4sln3hvqGxLEUCcAmTO4pR"
+    },
+    {
+      "artist": "Carlton Livingstone",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Don't Cuss Rasta",
+      "uri": "spotify:track:6RD37xe6DLzN1PTGrpFidP"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Transhuman [feat. The Grind Theory]",
+      "uri": "spotify:track:5YGw4pgRImbhF0kTHMVXtG"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Gun Fightin Man",
+      "uri": "spotify:track:3yQV97CpnHjaJVrfYuZsj0"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "The Way I Am",
+      "uri": "spotify:track:23wfXwnsPZYe5A1xXRHb3J"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Gothic Castle Fantasy",
+      "uri": "spotify:track:38uk4UlTpcNsa5fLxnUpig"
+    },
+    {
+      "artist": "Black Uhuru",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "No No No",
+      "uri": "spotify:track:1qfk9NyUG0KqoRL7o59cAE"
+    },
+    {
+      "artist": "Holy Holy",
+      "album": "Paint",
+      "track": "True Lovers",
+      "uri": "spotify:track:5RHY7WkAjAhpxuPN0CTd4F"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Adventures of You and Me",
+      "uri": "spotify:track:1vMqOk6ks9NgoiyTejOIR4"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Gone",
+      "uri": "spotify:track:7Dsir2U1nDlEV22lykbULR"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "change yr mind",
+      "uri": "spotify:track:5kUELvsIbY1OwLWogXkawl"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "German Preludium for Renaissance Lute",
+      "uri": "spotify:track:6z5sZE7RvObutqSYVTMYc4"
+    },
+    {
+      "artist": "Part Time",
+      "album": "PDA",
+      "track": "Night Drive",
+      "uri": "spotify:track:4XuTG2dnE2UwUxsyNzhYLm"
+    },
+    {
+      "artist": "CHAPPO",
+      "album": "Moonwater",
+      "track": "Come Home",
+      "uri": "spotify:track:229137QCrGaoOBf3IpTxtT"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Long Way From Home",
+      "uri": "spotify:track:6C6xqMptwc0qjFo1KzCzX3"
+    },
+    {
+      "artist": "Jeezy",
+      "album": "Let’s Get It: Thug Motivation 101",
+      "track": "My Hood",
+      "uri": "spotify:track:0svHXCcfS9zImI49EjkCaI"
+    },
+    {
+      "artist": "Big Sean",
+      "album": "Blessings",
+      "track": "Blessings - Extended Version",
+      "uri": "spotify:track:4UaWrzY75h1tAvlxa4NKP9"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "Only Way Is Up",
+      "track": "Comfortable",
+      "uri": "spotify:track:2BqQQXuBOuhaWeUP7okEx0"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Breakneck Speed",
+      "uri": "spotify:track:0DpyRXIhLuzpDkyI8RRTMa"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "track": "Interlude",
+      "uri": "spotify:track:3PWAEZBaw2jciq4D0NzDtO"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Lament for Lute",
+      "uri": "spotify:track:6PwAn6W9TnmWSrehybhDKm"
+    },
+    {
+      "artist": "Bibio",
+      "album": "Silver Wilkinson",
+      "track": "À tout à l'heure",
+      "uri": "spotify:track:0uy4LNxyL0QmtDveDaiGwo"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Goodbye, So Long",
+      "uri": "spotify:track:38ZBim5UWHVZ2BA4v5R8h4"
+    },
+    {
+      "artist": "Orchards",
+      "album": "Peggy",
+      "track": "Peggy",
+      "uri": "spotify:track:4QVaVxJu5rTGqA5LFdsdqu"
+    },
+    {
+      "artist": "The Brian Jonestown Massacre",
+      "album": "Their Satanic Majesties' Second Request",
+      "track": "Anemone",
+      "uri": "spotify:track:18kX8sPoqshqv0GtEOziTx"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Dollhouse",
+      "uri": "spotify:track:4SQz0wQc2oOfcXqkRbbZGV"
+    },
+    {
+      "artist": "Magneto",
+      "album": "La Historia De Magneto",
+      "track": "Para Siempre",
+      "uri": "spotify:track:5nDWALUZxhEzwbmIbjk2ZZ"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Controlla",
+      "uri": "spotify:track:4CpKEkdGbOJV51cSvx7SoG"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Top Shelf Drug",
+      "uri": "spotify:track:69LQbqMYPUmZuWloiRALeX"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Side Pony",
+      "uri": "spotify:track:3FDIAIgrA7Ltm0lyM1HLyk"
+    },
+    {
+      "artist": "Cassow",
+      "album": "Future Classic",
+      "track": "Cupid (feat. Freeway)",
+      "uri": "spotify:track:1vgkVgyFikl9ius7ZA0Ovg"
+    },
+    {
+      "artist": "Hibou",
+      "album": "Hibou",
+      "track": "Above Us",
+      "uri": "spotify:track:15cM7YncULyG3RlRCtaGqq"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Lazuli",
+      "uri": "spotify:track:0Fc8hmAuH0rHYq2Ur9t07Y"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First Allemand for Renaissance Guitar",
+      "uri": "spotify:track:2tYzSBks0I6wFCVg9ZrXCH"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "MerryGoRound",
+      "uri": "spotify:track:1NnyIOAwt6k92b6x7EDaXW"
+    },
+    {
+      "artist": "M. Ward",
+      "album": "Post-War",
+      "track": "Chinese Translation",
+      "uri": "spotify:track:4uMj6f6ImTf5R3JqNfqjgn"
+    },
+    {
+      "artist": "Hotel Mira",
+      "album": "Circulation",
+      "track": "From The East",
+      "uri": "spotify:track:3G0PDiNOi5qJMQ1P0c65Rg"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Kim",
+      "uri": "spotify:track:20oenBXlmwIfK0F3fQIjhM"
+    },
+    {
+      "artist": "Tribal Seeds",
+      "album": "Representing",
+      "track": "Moonlight",
+      "uri": "spotify:track:5G8xknglIO3jFYIXS34YB2"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Cleanse Song",
+      "uri": "spotify:track:6zdkf1mJGZ3FRI8Pi1VTGj"
+    },
+    {
+      "artist": "Grandaddy",
+      "album": "Under the Western Freeway",
+      "track": "A.M. 180",
+      "uri": "spotify:track:60SskFg8mhPrzBLLZJ1BK7"
+    },
+    {
+      "artist": "Rozwell Kid",
+      "album": "Too Shabby",
+      "track": "Kangaroo Pocket",
+      "uri": "spotify:track:0xDOL7sItKiKMw7hdyUwas"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "how do you sleep?",
+      "uri": "spotify:track:1xVznNshNUZcvdhSwj7kAb"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Not Sick",
+      "uri": "spotify:track:1OOjDW275fu5SydFtNEBYS"
+    },
+    {
+      "artist": "The Front Bottoms",
+      "album": "In Sickness & In Flames",
+      "track": "camouflage",
+      "uri": "spotify:track:4KgRsdomHDjbVhW8uZMOHj"
+    },
+    {
+      "artist": "Joyce Manor",
+      "album": "Songs From Northern Torrance",
+      "track": "House Warning Party",
+      "uri": "spotify:track:6w6SbrNRg994BVbiFegiN6"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "California Nights",
+      "uri": "spotify:track:0YXgq8FuZwlyN32lwZ6WRW"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Faithful",
+      "uri": "spotify:track:4dWVEAVhqNUjvsBHUo477f"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Downward Spiral",
+      "uri": "spotify:track:6iWbJdNf6Fl9y298RDZfrc"
+    },
+    {
+      "artist": "Modern Baseball",
+      "album": "You're Gonna Miss It All",
+      "track": "Your Graduation",
+      "uri": "spotify:track:0YHbKVzzxk7bUpfdr9VQY3"
+    },
+    {
+      "artist": "Jank",
+      "album": "Awkward Pop Songs",
+      "track": "Wut I Liek Abt U",
+      "uri": "spotify:track:44ehcqFvN6kuqwQ2B9TXnR"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "99",
+      "uri": "spotify:track:5otXJIeiF43SPz7R7ov8GX"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Fire & Desire",
+      "uri": "spotify:track:4bEGp4AapA0B3Q5PpnSq3K"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "Dye",
+      "uri": "spotify:track:7n2TOW1CPU12MKS8j8zEfi"
+    },
+    {
+      "artist": "Banes World",
+      "album": "You Say I'm in Love",
+      "track": "You Say I'm in Love",
+      "uri": "spotify:track:5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Buckshot (feat. KRS-One & DJ Premier)",
+      "uri": "spotify:track:3YZh2uUAZukJOF3WzHxiJP"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Don't",
+      "uri": "spotify:track:3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "All I Know",
+      "uri": "spotify:track:0NWqNXBJTpXbkI5rPWNy3p"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "track": "16:40am",
+      "uri": "spotify:track:3HsSySorIcpHXTnHAIK80s"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Through the Wire",
+      "uri": "spotify:track:4Piu5bw8iPxDzyGkx2NINZ"
+    },
+    {
+      "artist": "Sepultura",
+      "album": "Chaos A.D.",
+      "track": "Slave New World",
+      "uri": "spotify:track:39bighg4X08plAXXt9dC7T"
+    },
+    {
+      "artist": "Ini Kamoze",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Trouble You a Trouble Me",
+      "uri": "spotify:track:0gbbk4G55QvjpOVsCpHdUo"
+    },
+    {
+      "artist": "The Radio Dept.",
+      "album": "Running Out Of Love",
+      "track": "Swedish Guns",
+      "uri": "spotify:track:0MwAwl26Q0cpzEWpB9cdDF"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Angela",
+      "uri": "spotify:track:5bodDpPolC3xlame0SVcDY"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Move On",
+      "uri": "spotify:track:75jg4JtsTZVNcCsABISg6Y"
+    },
+    {
+      "artist": "Jamaican Queens",
+      "album": "Water",
+      "track": "Water",
+      "uri": "spotify:track:1pVzZOfj9bwB42l4Mz2qJH"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Gale Song",
+      "uri": "spotify:track:31xsM9IYq8B2EWfiJUzyXW"
+    },
+    {
+      "artist": "Deep Sea Diver",
+      "album": "Secrets",
+      "track": "Body on the Tracks",
+      "uri": "spotify:track:4QWU2crqOpxlprxPkUMoEu"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Assemble",
+      "uri": "spotify:track:71js7GF8mU9cOYRXhMJBRB"
+    },
+    {
+      "artist": "Sly & Robbie",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Lola rastaquouère",
+      "uri": "spotify:track:2RN9eTSQEtuKdddVyBDhkd"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Lake Sprinkle Sprankle",
+      "uri": "spotify:track:5YlvVosgjMCW6gcIkpuKYg"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "California",
+      "uri": "spotify:track:5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "artist": "Broken Social Scene",
+      "album": "Feel Good Lost",
+      "track": "Guilty Cubicles",
+      "uri": "spotify:track:19C0wFkkGTPCXSSoP2EkD9"
+    },
+    {
+      "artist": "Microwave",
+      "album": "Split",
+      "track": "But Not Often,",
+      "uri": "spotify:track:0WDAU9ulUVwtbw5zfT81Lw"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Europa Station in Deep Cold",
+      "uri": "spotify:track:3CPzKi8iNK2a80f9noIHZI"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "502 Come Up",
+      "uri": "spotify:track:5Y87Aek2DGI5s4WNAh8zKR"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "The Sequence",
+      "uri": "spotify:track:5vjV8rtLO9H1XVMFTXSbnZ"
+    },
+    {
+      "artist": "Childish Gambino",
+      "album": "Because The Internet",
+      "track": "I.Crawl",
+      "uri": "spotify:track:2peoIrd4v8r4HXNPXePIXQ"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Wishes",
+      "uri": "spotify:track:7x4tFmih1JBITx0e2ucGrT"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Life of Pause",
+      "uri": "spotify:track:4PVeiLzM9OGY2OEbtWqDkh"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Miserable",
+      "uri": "spotify:track:3lnHEjar5G8HOOWP27WWRl"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "White Privilege II (feat. Jamila Woods)",
+      "uri": "spotify:track:4QGJfw4TLQ07KM8m7Dq5Hu"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Noble Medieval Knight Song",
+      "uri": "spotify:track:1h1Ry7ixVhncebTaBF8I3g"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Other People",
+      "uri": "spotify:track:2Nt4Uw91pQLXSJ28SttDdF"
+    },
+    {
+      "artist": "Built To Spill",
+      "album": "Keep It like a Secret",
+      "track": "Carry the Zero",
+      "uri": "spotify:track:3HMOMdRPywfouYx5B4PvaH"
+    },
+    {
+      "artist": "Father",
+      "album": "I LOVE MAKONNEN",
+      "track": "Look at Wrist",
+      "uri": "spotify:track:3g9TyWZAiKs7Np7oztsG41"
+    },
+    {
+      "artist": "Baby E",
+      "album": "Finessin",
+      "track": "Finessin",
+      "uri": "spotify:track:7FYldGutEZ5PH9DOI7psFc"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Memory",
+      "uri": "spotify:track:1DjEo63rtbUz2zZPuk6RQq"
+    },
+    {
+      "artist": "Modest Mouse",
+      "album": "Interstate 8",
+      "track": "Interstate 8",
+      "uri": "spotify:track:2Z6LKuvQFQxXXYkKHw68NS"
+    },
+    {
+      "artist": "Fruit Bats",
+      "album": "Absolute Loser",
+      "track": "Humbug Mountain Song",
+      "uri": "spotify:track:3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Feel the Effect",
+      "uri": "spotify:track:3LKEv1D21DLPRXyzL9r6H5"
+    },
+    {
+      "artist": "Brothertiger",
+      "album": "This Must Be the Place (Naive Melody)",
+      "track": "This Must Be the Place (Naive Melody)",
+      "uri": "spotify:track:0oXsSXaICwrpFlPa3kZ4O2"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "I Don't Care About You",
+      "uri": "spotify:track:5sOhS3m45IPP9sUBXXlYGI"
+    },
+    {
+      "artist": "The Buttertones",
+      "album": "Buttertones",
+      "track": "Orpheus Under the Influence",
+      "uri": "spotify:track:7KwJrAQMoJyUEBes3evMLv"
+    },
+    {
+      "artist": "Jeff Rosenstock",
+      "album": "POST-",
+      "track": "9/10",
+      "uri": "spotify:track:6DkzLTT71IfNfUxGsDhJ2K"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Full Combat Chassis",
+      "uri": "spotify:track:5eXBvI0mRLLozNHI3KcY5q"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Seventh French Branle De Bourgogne",
+      "uri": "spotify:track:5KsOlNgOBOFIjYhct5Esao"
+    },
+    {
+      "artist": "Mindscape",
+      "album": "Headphone Session",
+      "track": "Too Late",
+      "uri": "spotify:track:13VxeemILYPKPsnnytmooH"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "Only Way Is Up",
+      "track": "Lil Bit",
+      "uri": "spotify:track:7bFElqzAlHXnnINRBXRQbK"
+    },
+    {
+      "artist": "The Gladiators",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Can't Stop Righteousness",
+      "uri": "spotify:track:4ZQ8sJnWLqvcdXSyrifo7a"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Hot Tonight",
+      "uri": "spotify:track:3KpA4FKeMAR3zMZ7zPAPjl"
+    },
+    {
+      "artist": "Tate Kobang",
+      "album": "Bank Rolls",
+      "track": "Bank Rolls - Remix",
+      "uri": "spotify:track:2IuWB214OCchhPrBK8OtIR"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First German Branle for Renaissance Guitar",
+      "uri": "spotify:track:0nomb404nYm5O9WFCSSOer"
+    },
+    {
+      "artist": "Kalax",
+      "album": "Kalax",
+      "track": "Time Lapse",
+      "uri": "spotify:track:7oMI71Jb3USQX5ILk5lp6x"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Trust In Somebody",
+      "uri": "spotify:track:7kUj6OA13WVvLdieTKKCrd"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "Multi-Love",
+      "track": "Multi-Love",
+      "uri": "spotify:track:0PEXp5yk0sx9dJ8JzwvjJb"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Liquid Burns",
+      "uri": "spotify:track:7qTxhrXwN2baAMblzadJ4L"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Ophelia",
+      "uri": "spotify:track:3d8y0t70g7hw2FOWl9Z4Fm"
+    },
+    {
+      "artist": "Blonde Redhead",
+      "album": "23",
+      "track": "Spring And By Summer Fall",
+      "uri": "spotify:track:5EU1OWL7m5sENavoHGADQu"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Lady Blue",
+      "uri": "spotify:track:0fEBMAHBmkX4cdPWXuXzRe"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Wait Up (Boots of Danger)",
+      "uri": "spotify:track:75TDv6S22wxTa2tStU7T0D"
+    },
+    {
+      "artist": "Dayglow",
+      "album": "Fuzzybrain",
+      "track": "Hot Rod",
+      "uri": "spotify:track:0zePbRMJ9sd7wsZRlbPQua"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "No Wonder",
+      "uri": "spotify:track:0YubvXDODXPM5xD6yja59T"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Four Winds",
+      "uri": "spotify:track:4UWcrSViQZwzFzc47ltS42"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "album": "F♯ A♯ ∞",
+      "track": "East Hastings",
+      "uri": "spotify:track:5jMuXTa5hECm37P7C0mbIB"
+    },
+    {
+      "artist": "Yo Gotti",
+      "album": "The Art of Hustle",
+      "track": "Down In the DM",
+      "uri": "spotify:track:1LxKKYsJNPeBdOwdudsJzv"
+    },
+    {
+      "artist": "Fort Frances",
+      "album": "Alio",
+      "track": "This Year Is Yours",
+      "uri": "spotify:track:1nYZVc2YcB5632DF8Fwwe8"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "White Iverson",
+      "track": "White Iverson",
+      "uri": "spotify:track:3G2grVPTDrTQskKKsoEnRA"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Last Raindrop",
+      "uri": "spotify:track:5Vy0r9qndjUBs6i4qPShLC"
+    },
+    {
+      "artist": "New Order",
+      "album": "Brotherhood",
+      "track": "Bizarre Love Triangle",
+      "uri": "spotify:track:6wVViUl2xSRoDK2T7dMZbR"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Medieval Mountain Song for Lute",
+      "uri": "spotify:track:7qcrJO2eBuXLcQYKUgRHko"
+    },
+    {
+      "artist": "YG",
+      "album": "Who Do You Love?",
+      "track": "Who Do You Love?",
+      "uri": "spotify:track:6Tx7BNqiakRXgAXngmnhCL"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Abysmal",
+      "uri": "spotify:track:4kiTT2EgHUMPAbtYkLQmdI"
+    },
+    {
+      "artist": "Death From Above 1979",
+      "album": "You're A Woman, I'm A Machine",
+      "track": "Blood on Our Hands",
+      "uri": "spotify:track:7aeLPLzp2EfDYUoJ59V1ui"
+    },
+    {
+      "artist": "Girls",
+      "album": "Album",
+      "track": "Lust For Life",
+      "uri": "spotify:track:72DTGt2tVAL6ATVhzVjvkk"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "The Hours",
+      "uri": "spotify:track:3bATRbSvB9RLyFmSAyBmVD"
+    },
+    {
+      "artist": "Touché Amoré",
+      "album": "Lament",
+      "track": "Limelight",
+      "uri": "spotify:track:1VWs302APzvQSw94xr7SSN"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "track": "So Say We All",
+      "uri": "spotify:track:1GXD2UVw7Vzj0z8Fk8PJr4"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Nothing Right",
+      "uri": "spotify:track:30NP3DnyudM2vzw3NEIj1n"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Fear and Saturday Night",
+      "uri": "spotify:track:2EEX7e3X1AY4ijHODTRR1x"
+    },
+    {
+      "artist": "Man Man",
+      "album": "On Oni Pond",
+      "track": "Head On (Hold On To Your Heart)",
+      "uri": "spotify:track:6pwYi8JStPRDK7bk2qul9w"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Grammys",
+      "uri": "spotify:track:2JfeUjJvP1lJkCSne9g0de"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "On the Sea",
+      "uri": "spotify:track:7LP6cCLVtN0fdawxEeqbgP"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Huncho Jack",
+      "uri": "spotify:track:5vuiHi3QYbwcm1OKJOYnrf"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Steve Berman",
+      "uri": "spotify:track:0DaZU7iKgXMelfXCkCOgBK"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Heaven Sent",
+      "uri": "spotify:track:1QdX4nYBypuyK39i3kI0si"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Aspetta",
+      "uri": "spotify:track:1uKXNqkPRmyCvb4WEPuGVC"
+    },
+    {
+      "artist": "Ty Dolla $ign",
+      "album": "Free TC",
+      "track": "Blasé (feat. Future & Rae Sremmurd)",
+      "uri": "spotify:track:5suEtW2DUAfvroohjzgatb"
+    },
+    {
+      "artist": "Spooky Black",
+      "album": "Leaving",
+      "track": "HotelSixNine (feat. Solomon da God)",
+      "uri": "spotify:track:30dF8ON0TT1PO6bXSLB36C"
+    },
+    {
+      "artist": "Billionaire Black",
+      "album": "Costa Rica (feat. Uno)",
+      "track": "Costa Rica (feat. Uno)",
+      "uri": "spotify:track:3SRdpzJfpAPMzgajMy9hUh"
+    },
+    {
+      "artist": "Black Marble",
+      "album": "A Different Arrangement",
+      "track": "MSQ No-Extra",
+      "uri": "spotify:track:6l5L0XzG9aqE0IDYp07ap1"
+    },
+    {
+      "artist": "Islands",
+      "album": "A Sleep & A Forgetting",
+      "track": "Hallways",
+      "uri": "spotify:track:2InbYfB2xruIPSl1KG9sPL"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "2014 Forest Hills Drive",
+      "track": "No Role Modelz",
+      "uri": "spotify:track:62vpWI1CHwFy7tMIcSStl8"
+    },
+    {
+      "artist": "Neko Case",
+      "album": "Blacklisted",
+      "track": "I Wish I Was the Moon",
+      "uri": "spotify:track:4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "One Dance",
+      "uri": "spotify:track:12VWzyPDBCc8fqeWCAfNwR"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "L",
+      "uri": "spotify:track:4yX50PMifhGzVEo1wv3guc"
+    },
+    {
+      "artist": "Surfer Blood",
+      "album": "Tarot Classics",
+      "track": "Voyager Reprise",
+      "uri": "spotify:track:6vAkSVRV6Sbs124CN9rI3n"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "Plains",
+      "uri": "spotify:track:36aMbIY8d92lK7P92LJlbZ"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "One More Day",
+      "uri": "spotify:track:17bBNWkyHu10lGgX6SP1bN"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Really Doe",
+      "uri": "spotify:track:6dHatCnuOb1TdBIeJTK3Y0"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Irish Ballad for Lute",
+      "uri": "spotify:track:11ywLmhuNxK4MX2q6xiqJO"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Don't Play (feat. The 1975 & Big Sean)",
+      "track": "Don't Play (feat. The 1975 & Big Sean)",
+      "uri": "spotify:track:2QKBvCMHdokPoy2b44dK2m"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Six Feet Under",
+      "uri": "spotify:track:4mU5iXHeLgbR94siF7p1sY"
+    },
+    {
+      "artist": "Big Pokey",
+      "album": "Hardest Pit in the Litter",
+      "track": "Who Dat Talking Down",
+      "uri": "spotify:track:3NitY3eL3TjRvPlQWjaclz"
+    },
+    {
+      "artist": "Tigers Jaw",
+      "album": "I Won't Care How You Remember Me",
+      "track": "Cat's Cradle",
+      "uri": "spotify:track:6Wrt1iG9AKqkavwSXh1aNz"
+    },
+    {
+      "artist": "ILOVEMAKONNEN",
+      "album": "I LOVE MAKONNEN 2",
+      "track": "Trust Me Danny",
+      "uri": "spotify:track:6Mo7ueMo1M334IEZA70uGY"
+    },
+    {
+      "artist": "Turnover",
+      "album": "Peripheral Vision",
+      "track": "New Scream",
+      "uri": "spotify:track:4mpWKliKujGFCeANiSpkvf"
+    },
+    {
+      "artist": "Freebandz",
+      "album": "The Future",
+      "track": "Shooters",
+      "uri": "spotify:track:5EyfOxHilmPMRQGVdfgRcB"
+    },
+    {
+      "artist": "McCafferty",
+      "album": "Beachboy",
+      "track": "Dead-Bird",
+      "uri": "spotify:track:0I8x68KiTOvx1VGDJLXzGO"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Letting Go",
+      "uri": "spotify:track:6knby94GZEBf006x84Kjjg"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Whatever",
+      "uri": "spotify:track:6MCBiKomYlxrjhr5g26GgZ"
+    },
+    {
+      "artist": "Brian Fallon",
+      "album": "Painkillers",
+      "track": "Painkillers",
+      "uri": "spotify:track:528wJwb2QQIFpZUDPYZZoq"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Sorry Not Sorry",
+      "uri": "spotify:track:16bHRxM89ue0TiCKARYbRp"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "German Allemand for Classical Guitar",
+      "uri": "spotify:track:4TmWl64xED0md1H2kLwhy8"
+    },
+    {
+      "artist": "Jeezy",
+      "album": "Let’s Get It: Thug Motivation 101",
+      "track": "Bottom Of The Map",
+      "uri": "spotify:track:6YmPSmsQqU5PWS5M8b21K1"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Smut King (Bonus track)",
+      "uri": "spotify:track:4ZeSOWRpBHhY3h2NssKYOY"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Sweet Relief",
+      "uri": "spotify:track:3CC6lcyI1em6JDrR4xsSbB"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Still the same",
+      "uri": "spotify:track:0fbsM8jG8D2rxIuqvQy8JP"
+    },
+    {
+      "artist": "What So Not",
+      "album": "Gemini (feat. George Maple)",
+      "track": "Gemini (feat. George Maple)",
+      "uri": "spotify:track:0K1glOFXQzLm3KxjJY5rtK"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Second Renaissance Gagliard for Guitar",
+      "uri": "spotify:track:7jduMD2CdobKWJ4XDVDPc1"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Through Windows",
+      "uri": "spotify:track:3x8Ra8xCOkKJx71yoQeMyR"
+    },
+    {
+      "artist": "Minimal Man",
+      "album": "Safari",
+      "track": "Pull Back the Bolt",
+      "uri": "spotify:track:27QsiQIp9enYFoOfiAnvii"
+    },
+    {
+      "artist": "Fredo Santana",
+      "album": "Ain't No Money Like Trap Money (Vol. 1)",
+      "track": "Pass Me My Double Cup",
+      "uri": "spotify:track:65jBwu52osBgo1XrwDWRsB"
+    },
+    {
+      "artist": "Israel Vibration",
+      "album": "Strength of My Life",
+      "track": "Cool and Calm",
+      "uri": "spotify:track:0dO79bdqpF4yl3Hpms8Eu7"
+    },
+    {
+      "artist": "The Embassy",
+      "album": "Tacking",
+      "track": "It Pays To Belong",
+      "uri": "spotify:track:3WJD7glu1AciGFDEHJO4Al"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "Awake",
+      "uri": "spotify:track:2qC1sUo8xxRRqYsaYEdDuZ"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Under The Pressure",
+      "uri": "spotify:track:45D0ixQWzXQOoU1S9aSnKk"
+    },
+    {
+      "artist": "Sianvar",
+      "album": "Stay Lost",
+      "track": "1100 Days",
+      "uri": "spotify:track:1bdasZ2bcjHFAEJcChTvuX"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Renaissance Lute Fantasy",
+      "uri": "spotify:track:24IqCs8k8t6ziA0MxUcLvE"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Third German Branle for Renaissance Guitar",
+      "uri": "spotify:track:3JOQXSvRTVH5YsolH3Vi5u"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Partners in Motion",
+      "uri": "spotify:track:4y6RHngR3wkIt3cWc4JriP"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Run Through My Head",
+      "uri": "spotify:track:5KnIWvmNUtUjaetWvLqpTa"
+    },
+    {
+      "artist": "Junior Byles",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Fade Away",
+      "uri": "spotify:track:4ZWqCtpUKxBxAU1Ljw6jQV"
+    },
+    {
+      "artist": "Ollie Wride",
+      "album": "Thanks in Advance",
+      "track": "Back to Life",
+      "uri": "spotify:track:1PM6oqUHeaYiDYQv8brW3Q"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Golddust",
+      "uri": "spotify:track:6iMo7yzmXqMC57FOHOSotz"
+    },
+    {
+      "artist": "No Buses",
+      "album": "Boring Thing",
+      "track": "Girl",
+      "uri": "spotify:track:2ysUlv7HWK44iY0R9FOJrp"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Call off Your Dogs",
+      "uri": "spotify:track:71klOm1fwpj9bCrMYfs5HZ"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "All Against All",
+      "uri": "spotify:track:6o7XcdOQlg7yIGB9MB9c4Q"
+    },
+    {
+      "artist": "The Velvet Teen",
+      "album": "No Star",
+      "track": "No Star",
+      "uri": "spotify:track:4VGOJFMPLTmt6AFLwRkIq5"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First French Fantasia for Renaissance Guitar",
+      "uri": "spotify:track:6d8I9JLRs8zqqW7YXeYCgF"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Drug Ballad",
+      "uri": "spotify:track:7tEoJKbYdIHBfn7tTIyjHW"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "English Medieval Love Ballade",
+      "uri": "spotify:track:7iGgQ3gYTAA5ZP1SqP36Y4"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Red Eyes",
+      "uri": "spotify:track:71jGGLe5VtEHjIk5dU2W3S"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Motorcycle Patches",
+      "uri": "spotify:track:7g7raxdQpiLZT7aOlib4S1"
+    },
+    {
+      "artist": "McCafferty",
+      "album": "Beachboy",
+      "track": "Alligator Skin Boots",
+      "uri": "spotify:track:1qFWOGLf8rX2lOLrR9wicN"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Sick In The Head",
+      "uri": "spotify:track:3u4pq1k2CliqRp0iI5JHI4"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Rambo",
+      "uri": "spotify:track:5RqsqQU0erB0OgLbwem6pU"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Camp Adventure - Full Band Version",
+      "uri": "spotify:track:6UZ44Q8eeNvP5S0aZwgywq"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Darlin",
+      "uri": "spotify:track:29Ztttd8vCpXYaldRhMMai"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Spectacular Failure",
+      "uri": "spotify:track:3f4KmzUdL9RAZ0CfTaocv8"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Break the Walls",
+      "uri": "spotify:track:3j8IWN5YSJ0sDSE4FBdTb6"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Moon Rock",
+      "uri": "spotify:track:7bTH8LgGSwyNNE4r1k95Zp"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Tell Me I Lived [feat. VHS Glitch]",
+      "uri": "spotify:track:04aDlp4RUk1psvRIw9xuiz"
+    },
+    {
+      "artist": "Crying",
+      "album": "Get Olde / Second Wind",
+      "track": "Vacation",
+      "uri": "spotify:track:28Nbt6fjBlsdA6u0g439vJ"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "album": "F♯ A♯ ∞",
+      "track": "Providence",
+      "uri": "spotify:track:35MghvJDcBxKqb1VHL6ePy"
+    },
+    {
+      "artist": "Half Pint",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Mr Landlord",
+      "uri": "spotify:track:6YLr7URPaXjXEEmrRDmw8N"
+    },
+    {
+      "artist": "The Velvet Teen",
+      "album": "Plus, Minus, Equals",
+      "track": "Counting Backwards",
+      "uri": "spotify:track:74NdisJXUj34Z55Ei75ek7"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First Renaissance Gagliard for Guitar",
+      "uri": "spotify:track:1bJgxnzv2UgymkPEeIGkP1"
+    },
+    {
+      "artist": "Hot Flash Heat Wave",
+      "album": "Neapolitan",
+      "track": "Hesitation",
+      "uri": "spotify:track:3FWN2ptNYQVs5OHrwDtH4Z"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "track": "Camp Adventure",
+      "uri": "spotify:track:3RSLvOoQwbbYEx3boq7Djw"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Sacred Hearts Club",
+      "track": "Static Space Lover",
+      "uri": "spotify:track:5JqXtvd8bAyyPTjaK6cSDH"
+    },
+    {
+      "artist": "Dear and the Headlights",
+      "album": "Small Steps, Heavy Hooves",
+      "track": "Sweet Talk",
+      "uri": "spotify:track:757fXABDTbalNzihYS3mUc"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Wild",
+      "uri": "spotify:track:3vZ57jnq0IgiKXkuWea37P"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Amityville",
+      "uri": "spotify:track:0erTM8A9ro5kzcNc962jHd"
+    },
+    {
+      "artist": "Active Child",
+      "album": "Evening Ceremony - Single",
+      "track": "Evening Ceremony",
+      "uri": "spotify:track:5QbNek32fjVHhxqAeUW1ej"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Sad Renaissance Guitar Ballade",
+      "uri": "spotify:track:3hAAiesYiOF54D3fIsRL4a"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Sidewalks",
+      "uri": "spotify:track:4h90qkbnW1Qq6pBhoPvwko"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Starboy",
+      "uri": "spotify:track:7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "All I Want",
+      "uri": "spotify:track:7jeSFewaQLq8t2x8OZFQxZ"
+    },
+    {
+      "artist": "Slow Pulp",
+      "album": "Big Day",
+      "track": "High",
+      "uri": "spotify:track:3GaamyFHQYbQi1ykc4nV4o"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "In Due Time",
+      "track": "Money Baby",
+      "uri": "spotify:track:3pT00QwvR8AzFtL3hedljs"
+    },
+    {
+      "artist": "Shelley FKA DRAM",
+      "album": "Broccoli",
+      "track": "Broccoli",
+      "uri": "spotify:track:0qy5D3OJre7SPJNMOL9I71"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Gun Song",
+      "uri": "spotify:track:02VxlOxetoqdcq2G7zHImz"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Decide You're Gone",
+      "uri": "spotify:track:1ULwVJaNC2uANgQbGWQiaN"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Redemption",
+      "uri": "spotify:track:6qGgrhiZ20Qrir3MNGUJq4"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "For However Long",
+      "uri": "spotify:track:5g30WoqK1Dv5Bnwpusp2vk"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "Till I Die",
+      "track": "Till I Die",
+      "uri": "spotify:track:7fwd7bCH6N4jMnvqC53Hky"
+    },
+    {
+      "artist": "Craft Spells",
+      "album": "Our Park By Night",
+      "track": "Our Park By Night",
+      "uri": "spotify:track:6vLYJ6UVPMEuFzKuWZOR0g"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Hotline Bling",
+      "uri": "spotify:track:1OAYKfE0YdrN7C1yLWaLJo"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Bolo Tie (feat. YG)",
+      "uri": "spotify:track:1yePDglJTWekynhdauhWQj"
+    },
+    {
+      "artist": "The Chain Gang Of 1974",
+      "album": "Daydream Forever",
+      "track": "Ordinary Fools",
+      "uri": "spotify:track:3hxlkqoAvP572Eo51kf5M4"
+    },
+    {
+      "artist": "Sly & Robbie",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Side Walk Doctor",
+      "uri": "spotify:track:40zf9fT5R63gTHPbzPBBmt"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Overtime",
+      "uri": "spotify:track:2gq9iG0maBxkuZI7yfGJuv"
+    },
+    {
+      "artist": "YG",
+      "album": "My Krazy Life",
+      "track": "I Just Wanna Party",
+      "uri": "spotify:track:1ZX8sOGnVyE5FZBh1oKzZa"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Weston Road Flows",
+      "uri": "spotify:track:0P7HlSwSY8mJCWIk4yunb0"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Second Allemand for Renaissance Guitar",
+      "uri": "spotify:track:0uMb7H6K4uyaXRJ2Z8sQcw"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Eyes To The Wind",
+      "uri": "spotify:track:1IWcHSvemRM9J3LJAlNoyQ"
+    },
+    {
+      "artist": "Lifelike",
+      "album": "So Electric",
+      "track": "So Electric",
+      "uri": "spotify:track:7yBraTQTMZInARESJRP2wG"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "House on Fire",
+      "uri": "spotify:track:13AqPc8EhoMexneffvCwFM"
+    },
+    {
+      "artist": "Death From Above 1979",
+      "album": "Heads Up",
+      "track": "If We Don't Make It We'll Fake It",
+      "uri": "spotify:track:4tp09vEUl85ycCQEfqxAZH"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Second French Branle De Bourgogne",
+      "uri": "spotify:track:6rlXqkUuYY1iMCUS6nDSxP"
+    },
+    {
+      "artist": "Nation of Language",
+      "album": "Introduction, Presence",
+      "track": "The Wall & I",
+      "uri": "spotify:track:3YopR9iqzcQei6l8DJ5Ylo"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "21 Letters",
+      "uri": "spotify:track:3CaLmpf5UBUcr5YIL2LqQQ"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Godawful Things",
+      "uri": "spotify:track:4PPRuAe8lQol1TooDJgxB8"
+    },
+    {
+      "artist": "Hikes",
+      "album": "Hikes",
+      "track": "Tinker Creek",
+      "uri": "spotify:track:5eGLqr3F2jdFBB4ZDYbZQJ"
+    },
+    {
+      "artist": "The Gladiators",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Rich Man, Poor Man",
+      "uri": "spotify:track:1HVZ5t7xQCIfcWT0wKVCTR"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Today",
+      "uri": "spotify:track:7kTxncRUYhC8PC1v70moeN"
+    },
+    {
+      "artist": "Neko Case",
+      "album": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You [Deluxe Edition]",
+      "track": "Night Still Comes",
+      "uri": "spotify:track:34n6Ea7xmSq23tzClOer3w"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Lute Prelude for English Queen",
+      "uri": "spotify:track:2nVl1yS03AEt8DwgayyJek"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Get Hi",
+      "uri": "spotify:track:7kKEXvq4NQ9OatQs906MGV"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Dance In The Water",
+      "uri": "spotify:track:2kmpyKQjVw5UOcVlmkxnYY"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Lost In The Dream",
+      "uri": "spotify:track:3DugxTcndDHQ8dQAienHha"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "Only Way Is Up",
+      "track": "Change",
+      "uri": "spotify:track:7atDMc3aRYaOuMt9Qk4ptS"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Toy Guns",
+      "uri": "spotify:track:6YahFxfpGx1bkb7YdzPvXR"
+    },
+    {
+      "artist": "Domo Genesis",
+      "album": "Genesis",
+      "track": "Coming Back (feat. Mac Miller)",
+      "uri": "spotify:track:1WsRuvitfegWXQJKRgRZrj"
+    },
+    {
+      "artist": "Shawn Chrystopher",
+      "album": "Summerlove.",
+      "track": "Faithful",
+      "uri": "spotify:track:3v6FAcVEuu3ZFt7zlr8zJV"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "Little Green",
+      "uri": "spotify:track:11ZNWD9Xzq9p3n07NbWSZw"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "My Diamond Is Too Rough",
+      "uri": "spotify:track:5wblL7xwegkfOsyJscWrU8"
+    },
+    {
+      "artist": "Sleeping At Last",
+      "album": "Many Beautiful Things (Original Motion Picture Soundtrack)",
+      "track": "Climate",
+      "uri": "spotify:track:5Z6fcwtOBHUekDM9jRcuUt"
+    },
+    {
+      "artist": "UGK",
+      "album": "The Essential UGK",
+      "track": "Int'l Players Anthem (feat. Three 6 Mafia)",
+      "uri": "spotify:track:6QwcE53T6oXrPH1jkvLUjX"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Party Monster",
+      "uri": "spotify:track:4F7A0DXBrmUAkp32uenhZt"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Let Em' Know",
+      "uri": "spotify:track:5QDGKcQLqOJvoiu8eScEaM"
+    },
+    {
+      "artist": "Shoreline Mafia",
+      "album": "ShorelineDoThatShit",
+      "track": "Nun Major",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Hot Knives",
+      "uri": "spotify:track:3ZGaUaxO25VBRc7xQxg2eD"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Out of My League",
+      "uri": "spotify:track:2Z5wXgysowvzl0nKGNGU0t"
+    },
+    {
+      "artist": "Still Corners",
+      "album": "Don't Fall in Love/Wish 7-Inch",
+      "track": "Don't Fall In Love",
+      "uri": "spotify:track:3s3y59sgoF4IEMAASaGupW"
+    },
+    {
+      "artist": "Foxing",
+      "album": "Speak With the Dead",
+      "track": "Speak With the Dead",
+      "uri": "spotify:track:0amMn6Pn9BL6gj1gdaDziP"
+    },
+    {
+      "artist": "Naked Eyes",
+      "album": "Burning Bridges",
+      "track": "Low Life",
+      "uri": "spotify:track:0t1N2atvEvY2Jcf8x9aXlR"
+    },
+    {
+      "artist": "Jimmy Riley",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "My Woman's Love",
+      "uri": "spotify:track:5D9lM96si1k81gOJgzcM9u"
+    },
+    {
+      "artist": "John Maus",
+      "album": "We Must Become the Pitiless Censors of Ourselves",
+      "track": "Hey Moon",
+      "uri": "spotify:track:0MpsyFvt1KaxNYBYw2aanq"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "When It Rain",
+      "uri": "spotify:track:2DGbSEkVncvcUJzFYN0V9y"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "black screen",
+      "uri": "spotify:track:0AUp2LQdUSJRtQa5rTx3fJ"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "The Drugs (Chopped And Screwed)",
+      "uri": "spotify:track:0Eo6MFvYIdb5L7hkBtcAT0"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Brad Pitt's Cousin (feat. Xperience)",
+      "uri": "spotify:track:3zg0RVk6GcXFvJG6BWVFre"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Earth Is Not a Cold Dead Place",
+      "track": "Your Hand In Mine",
+      "uri": "spotify:track:5NdxiycRi3nP2v7RJoAJIT"
+    },
+    {
+      "artist": "Drake",
+      "album": "Back To Back",
+      "track": "Back To Back",
+      "uri": "spotify:track:4rujbg8RNFitwtkv1qEq4K"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "True Colors",
+      "uri": "spotify:track:1oGdVdYjeQvojGKDddxLQQ"
+    },
+    {
+      "artist": "Santigold",
+      "album": "99 Cents",
+      "track": "Who Be Lovin' Me (feat. ILOVEMAKONNEN)",
+      "uri": "spotify:track:0VDXLTrBPmozUbDtr2horH"
+    },
+    {
+      "artist": "Harmless",
+      "album": "I'm Sure",
+      "track": "Swing Lynn",
+      "uri": "spotify:track:6hIOunhsLUT66KQgZV5dMD"
+    },
+    {
+      "artist": "Paul \"Bunyan\" Rosenberg",
+      "album": "The Marshall Mathers LP",
+      "track": "Paul - Skit",
+      "uri": "spotify:track:2vDNkLviUQSxSxulGBFSqJ"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Misty Scottish Sunrise for Celtic Lute",
+      "uri": "spotify:track:0ZuQtsqUJH7tlP0ZJAXqNA"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Ciacona, Memorial Music",
+      "uri": "spotify:track:2HiLgXqpSKPbcf8W8BGU4Z"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Get Away",
+      "uri": "spotify:track:53MWhtsfkl7KUCLTF3G78H"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "No Compromise",
+      "uri": "spotify:track:5QgtgK0a8djMQ0Kp6yiRO0"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "track": "Lua",
+      "uri": "spotify:track:4PMvRfhHAx5j6Bb3XsFLoq"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "track": "Another Travelin' Song",
+      "uri": "spotify:track:78aRLjDiQx6jo0GVW7aDA4"
+    },
+    {
+      "artist": "Sun Airway",
+      "album": "Nocturne Of Exploded Crystal Chandelier",
+      "track": "Put the Days Away",
+      "uri": "spotify:track:5KrQ7SRLO8IgFAHY2D61LH"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Love To Lay",
+      "uri": "spotify:track:27BgDmciSjoxTG0almHTpZ"
+    },
+    {
+      "artist": "Eyedress",
+      "album": "Manila Ice",
+      "track": "Manila Ice",
+      "uri": "spotify:track:5OQGn9vOqLUdhtPq9Qux2O"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "See",
+      "uri": "spotify:track:5ntMi72LCYmpGFiEbsrE48"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "French Pavane Des Bouffons",
+      "uri": "spotify:track:1t9O61x03dWzJ5Y67q5cuG"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "6am",
+      "uri": "spotify:track:22tETkZdFgbDQ7ZTE4gpMJ"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Looks Is Deceiving",
+      "uri": "spotify:track:3AmWAZ7ku7Ws2YCi6VfECK"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "It's Gonna Be Alright",
+      "uri": "spotify:track:1EfUAqK6QYhAzPVw9VGdYt"
+    },
+    {
+      "artist": "Hot Sugar",
+      "album": "Freddie Merkury",
+      "track": "Trapper Keeper (feat. Fat Tony)",
+      "uri": "spotify:track:1pVSgqDsbwsIpg1xJSEy9y"
+    },
+    {
+      "artist": "Black Uhuru",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Sun Is Shining",
+      "uri": "spotify:track:7hXcErBtjVv9IlKYPbmJZp"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Broken Heart Tattoos",
+      "uri": "spotify:track:0uOGYOUzy7zH8xAH6UM3aF"
+    },
+    {
+      "artist": "Dylan LeBlanc",
+      "album": "Cautionary Tale",
+      "track": "Cautionary Tale",
+      "uri": "spotify:track:51LJmGVbrbxPP04Kog24Ul"
+    },
+    {
+      "artist": "Puzzle",
+      "album": "Soaring",
+      "track": "I Saw An Angel",
+      "uri": "spotify:track:32zMQFjAXTcCP3d1cbzkXj"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Criminal",
+      "uri": "spotify:track:18ohWhzbMCynq5QJ68ifkW"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Second Fantasia for Renaissance Guitar",
+      "uri": "spotify:track:7zaHPTScLhmwokSb8sQ45R"
+    },
+    {
+      "artist": "D.A.N.",
+      "album": "D.A.N.",
+      "track": "Ghana",
+      "uri": "spotify:track:4FtnCQxITctcnShWf83gfj"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Dubai Shit",
+      "uri": "spotify:track:6urLjX35oXXRYtcH1b3dCh"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "Multi-Love",
+      "track": "Can’t Keep Checking My Phone",
+      "uri": "spotify:track:0x38UMMhYacciPRK7ETk1M"
+    },
+    {
+      "artist": "Ghost",
+      "album": "Meliora",
+      "track": "Cirice",
+      "uri": "spotify:track:3ZXZ9RMsznqgyHnyq0K5FL"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Horse of the Noble Knight",
+      "uri": "spotify:track:3mrQDHpDlQ6PF04f6nbCXk"
+    },
+    {
+      "artist": "Weatherbox",
+      "album": "American Art",
+      "track": "Trippin' the Life Fantastic",
+      "uri": "spotify:track:43nECV8GbaThZKiGoXYvp3"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Malicious Hardware [feat. OGRE]",
+      "uri": "spotify:track:3yL08mA9kaKtya5Z3EtNWK"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Pop Style",
+      "uri": "spotify:track:334S9SWZMjyRDN0wrHw7wk"
+    },
+    {
+      "artist": "Blah Blah Blah",
+      "album": "Charm",
+      "track": "Had A Run",
+      "uri": "spotify:track:1dMAuQD38A5F8IHmlSTkEU"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Under The Influence",
+      "uri": "spotify:track:5H3B1WtZYGmyOYOXgQltKU"
+    },
+    {
+      "artist": "Welton Irie",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Put It Down",
+      "uri": "spotify:track:2imIm1qs9LXKIvcUIeErCA"
+    },
+    {
+      "artist": "The Game",
+      "album": "The Documentary 2",
+      "track": "100 (feat. Drake)",
+      "uri": "spotify:track:46MFlm7p0Vqd0eXmLtDlN4"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Hands Reversed",
+      "uri": "spotify:track:1ZhTyFdQQXQy6LMpMxIY8o"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "English Renaissance Lute Dance",
+      "uri": "spotify:track:7Im2fJmqLo76a5ejWoVxQn"
+    },
+    {
+      "artist": "Azad",
+      "album": "For the Hopeful",
+      "track": "Good",
+      "uri": "spotify:track:14JVvyYTdLtd167zqaSvro"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Daniel Craig David",
+      "uri": "spotify:track:3n9ulUj3N8ooX6dIeExbzP"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Little Polyphonic Ballade for Guitar",
+      "uri": "spotify:track:5iwzEVQhFFsE1PZw1gcquo"
+    },
+    {
+      "artist": "Worst Party Ever",
+      "album": "what about you?",
+      "track": "what about you?",
+      "uri": "spotify:track:7sLQGgXFs4LaGAaDErPwOl"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Medieval Gaelic Dance for Lute",
+      "uri": "spotify:track:0sd9lToax48cojGsVEo6F1"
+    },
+    {
+      "artist": "The Midnight",
+      "album": "Endless Summer",
+      "track": "Jason",
+      "uri": "spotify:track:3nNNYRBtkNsKjertmtTRMO"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Open Interlude",
+      "uri": "spotify:track:2uYnktBpKbr8YuiLit7WiZ"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "Only Way Is Up",
+      "track": "1Hunnid",
+      "uri": "spotify:track:4immekPm8Har57BB9DcDSj"
+    },
+    {
+      "artist": "VIP Lemonade",
+      "album": "Weird Waves Season 1 (Orignal Motion Picture Soundtrack)",
+      "track": "SplitRock",
+      "uri": "spotify:track:5yUQvJdegYXJ3q0wTeVuxr"
+    },
+    {
+      "artist": "A$AP Mob",
+      "album": "Cozy Tapes: Vol. 1 Friends -",
+      "track": "Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)",
+      "uri": "spotify:track:5VnpYqIzm02X9gOhVElQo3"
+    },
+    {
+      "artist": "From Indian Lakes",
+      "album": "Absent Sounds",
+      "track": "Breathe, Desperately",
+      "uri": "spotify:track:5z16y5iIiKa1tmpzOqz3pM"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Disappearing",
+      "uri": "spotify:track:294LTVN1jkv6bAEjhGWcgN"
+    },
+    {
+      "artist": "Kid Ink",
+      "album": "My Own Lane",
+      "track": "Show Me (feat. Chris Brown)",
+      "uri": "spotify:track:7uc39NPTNiu86GQxTUMzGT"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Right My Wrongs",
+      "uri": "spotify:track:5rgrBsAFYMun6yhtnLKRPz"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "track": "Road To Joy",
+      "uri": "spotify:track:1PW6GA54DjaQDwKU4ATCDE"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Flawed Translation",
+      "uri": "spotify:track:1vp1q2ESlImZSpUGJIR5r9"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "To Know You",
+      "uri": "spotify:track:4wkC2xYXwnrBStunnKWJdv"
+    },
+    {
+      "artist": "Ty Dolla $ign",
+      "album": "Beach House EP",
+      "track": "Paranoid (feat. B.o.B)",
+      "uri": "spotify:track:0Yp3wCUpjrG7NWWPDpmQXm"
+    },
+    {
+      "artist": "Fort Frances",
+      "album": "Alio",
+      "track": "Everything Is Starting to Make Sense",
+      "uri": "spotify:track:1euVISxalg3NGjG2pN55nn"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Adore",
+      "uri": "spotify:track:0v3CNTfuSIlG74otVJV7Zs"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Transcendence from the Flesh",
+      "uri": "spotify:track:23YvaJCxPMQCepiEfkdstd"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Summer Breeze",
+      "uri": "spotify:track:5heV6Aes6Sd3RpKhvA8nQn"
+    },
+    {
+      "artist": "The Wailers",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "I Shot the Sheriff (Instrumental)",
+      "uri": "spotify:track:28Qz63RgqCt9Zgn4GtbKum"
+    },
+    {
+      "artist": "Frances Cone",
+      "album": "Arizona",
+      "track": "Arizona",
+      "uri": "spotify:track:7hGeRC8nVfXI4a9sC8x8N7"
+    },
+    {
+      "artist": "Can't Swim",
+      "album": "Fail You Again",
+      "track": "Stranger",
+      "uri": "spotify:track:6ZCb0vQO4UqQKSYls15HZA"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Second German Branle for Renaissance Guitar",
+      "uri": "spotify:track:4WMcOe0qnneFFzZDIbb8Xs"
+    },
+    {
+      "artist": "Fat Tony",
+      "album": "Smart Ass Black Boy",
+      "track": "BKNY",
+      "uri": "spotify:track:67yGmgfoLNpT1J0AaDpdV2"
+    },
+    {
+      "artist": "Death From Above 1979",
+      "album": "You're A Woman, I'm A Machine",
+      "track": "Black History Month",
+      "uri": "spotify:track:3fnvElSyFC2xCc20sYTP5N"
+    },
+    {
+      "artist": "Mitski",
+      "album": "Puberty 2",
+      "track": "Your Best American Girl",
+      "uri": "spotify:track:172rW45GEnGoJUuWfm1drt"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Wilderness",
+      "track": "Disintegration Anxiety",
+      "uri": "spotify:track:2ydkCnMOCQ9IevgpGG1QNV"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Bend",
+      "uri": "spotify:track:7gfx6UlKXGFtowflVg8ymP"
+    },
+    {
+      "artist": "BAYNK",
+      "album": "Water",
+      "track": "Water",
+      "uri": "spotify:track:0bHLNUoBzK83c61N9W4ohF"
+    },
+    {
+      "artist": "Kidd Kidd",
+      "album": "Ejected",
+      "track": "Ejected",
+      "uri": "spotify:track:17ghdXfwoAysNAT57be7N3"
+    },
+    {
+      "artist": "Generationals",
+      "album": "Avery",
+      "track": "Avery",
+      "uri": "spotify:track:0MCxHU7MZ3x26bOtdaeXM9"
+    },
+    {
+      "artist": "Hot Flash Heat Wave",
+      "album": "Neapolitan",
+      "track": "Gutter Girl",
+      "uri": "spotify:track:0ja3CywBYUp2kEw0BpwIdh"
+    },
+    {
+      "artist": "Rich Homie Quan",
+      "album": "No Pen No Pad",
+      "track": "Imma Ride",
+      "uri": "spotify:track:6YKcWToqRG9GZsSpCP8vsu"
+    },
+    {
+      "artist": "The Movement",
+      "album": "Golden",
+      "track": "Smoke",
+      "uri": "spotify:track:2j5L0FERhrTSNHP42C7gtU"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Ordinary Life",
+      "uri": "spotify:track:15k2nBQJ0teDmPZHrOXL2N"
+    },
+    {
+      "artist": "Free Throw",
+      "album": "What's Past is Prologue",
+      "track": "The Corner's Dilemma",
+      "uri": "spotify:track:6JChG4McBETZv2PRSumxQ7"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Fourth Allemand for Renaissance Guitar",
+      "uri": "spotify:track:0GOveMHejnrsRag6A1ssM0"
+    },
+    {
+      "artist": "Brothertiger",
+      "album": "Out of Touch",
+      "track": "High Tide",
+      "uri": "spotify:track:0IrkbWuQq0WToJ5SA0Id76"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "White Lines",
+      "uri": "spotify:track:3fqfuK6PQITWU0fCKfo31d"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Sandra's Smile",
+      "track": "Sandra’s Smile",
+      "uri": "spotify:track:5ttTiCmUONu0MrbJUMI5My"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Right On Time",
+      "uri": "spotify:track:62nXfadbCPuich9yVn5Pth"
+    },
+    {
+      "artist": "Titus Andronicus",
+      "album": "The Monitor",
+      "track": "A More Perfect Union",
+      "uri": "spotify:track:515qE0YyUWivEobvHGpN7o"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "9",
+      "uri": "spotify:track:4uCAKqQQYJaIvyzq4sZkaO"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Black & Chinese",
+      "uri": "spotify:track:628Ueb4sRiXApObhcU9iPU"
+    },
+    {
+      "artist": "Sergei Prokofiev",
+      "album": "Extreme Classics",
+      "track": "Romeo and Juliet, Op. 64: Montagues and Capulets (Dance of the Knights)",
+      "uri": "spotify:track:7lg2SyPkcFn0CuYCHgzvq8"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Can't Stop",
+      "uri": "spotify:track:0T2QSmmVNm3roHTGRB0P0P"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Fools Gold",
+      "uri": "spotify:track:3nSLu4fkMDyah7xrmKr4c4"
+    },
+    {
+      "artist": "Bankroll Fresh",
+      "album": "Dirty Game (Keep Your Eyez Open) - Single",
+      "track": "Dirty Game (Keep Your Eyez Open)",
+      "uri": "spotify:track:0h3SnkBgn3KIU2wRCab0J0"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Sleep Won’t Ever Come",
+      "uri": "spotify:track:2l1LrD3uWJZf3WNsYb5KZ1"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Italian Pavaniglia With Variations",
+      "uri": "spotify:track:1iGKMEHtXCllNv5O9WFVct"
+    },
+    {
+      "artist": "Chuck Inglish",
+      "album": "SUPERSQUAD: by Chuck & Mike - Single",
+      "track": "SUPERSQUAD: by Chuck & Mike",
+      "uri": "spotify:track:6rtf91q1gL35AgkVqIiQCi"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "The Haunting Idle",
+      "uri": "spotify:track:5SOx9vcGt8JoVo02HipcAg"
+    },
+    {
+      "artist": "No Vacation",
+      "album": "Yam Yam",
+      "track": "Yam Yam",
+      "uri": "spotify:track:7kyiHjkFdmHcYcIJtFAdaF"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Whenever I",
+      "uri": "spotify:track:7aqqkpCbBHt0csewgRyMvC"
+    },
+    {
+      "artist": "The Civil Wars",
+      "album": "The Civil Wars",
+      "track": "Dust to Dust",
+      "uri": "spotify:track:5P6ZBMWS66FVo6deJaDdHy"
+    },
+    {
+      "artist": "Domo Genesis",
+      "album": "Genesis",
+      "track": "Go (Gas) (feat. Wiz Khalifa, Juicy J & Tyler, The Creator)",
+      "uri": "spotify:track:0v3IeMw8l2M3TjIqQrihDW"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Hype",
+      "uri": "spotify:track:07GilNHSfS5oicUgHgU7VG"
+    },
+    {
+      "artist": "The Symposium",
+      "album": "Drugs",
+      "track": "Tony Stark",
+      "uri": "spotify:track:6yljCYdn6RsTj8oWXPeJCl"
+    },
+    {
+      "artist": "Animal Collective",
+      "album": "Strawberry Jam",
+      "track": "Fireworks",
+      "uri": "spotify:track:4VG5jWn1LdOt1R6KmmBsYJ"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Close to Me",
+      "uri": "spotify:track:4YCxnvumzDpYHoOCw1cNBs"
+    },
+    {
+      "artist": "Viceroys",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Heart Made of Stone",
+      "uri": "spotify:track:5BLT9kM1EzHhN8AM6vTGPQ"
+    },
+    {
+      "artist": "The Jesus and Mary Chain",
+      "album": "Psychocandy",
+      "track": "Just Like Honey",
+      "uri": "spotify:track:4E6YM4V7Kz6zpbiNsliwEl"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Keep The Family Close",
+      "uri": "spotify:track:0AAyo5bMIVgVxv9DF6XV2B"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Alien",
+      "uri": "spotify:track:2esLSpUp1Y5LI75g7K1MXr"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Go",
+      "uri": "spotify:track:4RgoqOBE34Q6zZj8K7RUAx"
+    },
+    {
+      "artist": "Dead Horses",
+      "album": "My Mother the Moon",
+      "track": "Turntable",
+      "uri": "spotify:track:0Dp07EA5ybveKSUE27CuEd"
+    },
+    {
+      "artist": "El Huervo",
+      "album": "Do Not Lay Waste To Homes...",
+      "track": "Rounders",
+      "uri": "spotify:track:3hacbRUvLN1CnjaYd8rGyL"
+    },
+    {
+      "artist": "Geowulf",
+      "album": "Saltwater",
+      "track": "Saltwater",
+      "uri": "spotify:track:1zXpHPdBAUxnOCQqFMFLk3"
+    },
+    {
+      "artist": "Young Nudy",
+      "album": "Slimeball",
+      "track": "Spaced Out",
+      "uri": "spotify:track:4y3l1Qk130C1ebtgIGxltq"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Eighth French Branle De Bourgogne",
+      "uri": "spotify:track:4GjFqsYKTDB4UFbqV2X7Dq"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Earth Is Not a Cold Dead Place",
+      "track": "First Breath After Coma",
+      "uri": "spotify:track:619bPJZXSzqYi5vysR51Sa"
+    },
+    {
+      "artist": "Aminé",
+      "album": "Caroline",
+      "track": "Caroline",
+      "uri": "spotify:track:34dVqrAW35mn6dpgfzntOS"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "I Don't Wanna Wait",
+      "uri": "spotify:track:1Q3Tp2ywl83yRlzegL8JKQ"
+    },
+    {
+      "artist": "Fort Frances",
+      "album": "Alio",
+      "track": "Sigh of Relief",
+      "uri": "spotify:track:5yRmhyDpBOaz2jYI45lHhp"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "In My Eyes",
+      "uri": "spotify:track:3NT5B1jrtT2Nawu0gTegYm"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Nothing Without You",
+      "uri": "spotify:track:57qiTKh8bVX0VtfUNTQqhw"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "This Is Happening",
+      "track": "Home",
+      "uri": "spotify:track:5gmv3BgePSYiHnPJgY7oTJ"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Island in the Sky",
+      "uri": "spotify:track:7nhCTjmO17zPgaBkVSQu5f"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Stargirl Interlude",
+      "uri": "spotify:track:4EDijkJdHBZZ0GwJ12iTAj"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Fine Without You",
+      "uri": "spotify:track:5ldZLHQZlIjbTR8QWGeDWd"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Hungry for Love",
+      "uri": "spotify:track:0HrP2px1TuXGgBXm9vSwaM"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Oscillation",
+      "uri": "spotify:track:0MdRcn5fg96F2OvetxE0OS"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Don't Forget",
+      "uri": "spotify:track:6XQNFuUNpuKkoKtc1vOusp"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "LIFTED Or The Story Is In The Soil, Keep Your Ear To The Ground",
+      "track": "Let's Not Shit Ourselves (To Love And To Be Loved)",
+      "uri": "spotify:track:4ef4J3MEiAYAkhRM8Kj7eI"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Troublemaker",
+      "uri": "spotify:track:4qbCRlvE5Bb9XNBjxARjoP"
+    },
+    {
+      "artist": "Turnover",
+      "album": "Peripheral Vision",
+      "track": "Intrapersonal",
+      "uri": "spotify:track:04IfoYokw85zjq8LAcemjV"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Attention",
+      "uri": "spotify:track:6pDVjCUA3B1vg9waKutAsv"
+    },
+    {
+      "artist": "Lord Huron",
+      "album": "13 Reasons Why",
+      "track": "The Night We Met (feat. Phoebe Bridgers)",
+      "uri": "spotify:track:0jZO7p0nBUi9VHedWUBS9l"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "Too Young",
+      "track": "Too Young",
+      "uri": "spotify:track:5is0hEWWStAbbHCjWyoxq2"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Glad To Be Home",
+      "uri": "spotify:track:6BydwPpdcmhPmGJgJOskg4"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Saint Laurent Mask",
+      "uri": "spotify:track:7JGyxh8G8QZnu4AMJuCqlj"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "French Gagliard Des Bouffons",
+      "uri": "spotify:track:3sdtl7eB3q4ryHPC0484Mk"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "LIFTED Or The Story Is In The Soil, Keep Your Ear To The Ground",
+      "track": "Bowl Of Oranges",
+      "uri": "spotify:track:3PkpUPwXOni0QgO3C95iY3"
+    },
+    {
+      "artist": "Bayonne",
+      "album": "Primitives",
+      "track": "Spectrolite",
+      "uri": "spotify:track:5udmJRGzMoqSPWoav0W8JB"
+    },
+    {
+      "artist": "Asher Roth",
+      "album": "Sushi",
+      "track": "Sushi",
+      "uri": "spotify:track:3A80PCs3bSqIoovni9392v"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Lime Tree",
+      "uri": "spotify:track:0vbdsjmVzoJDFTKqa1Dz6W"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "Keepin' Our Eyes Out",
+      "uri": "spotify:track:1GehsHeMg1KXeN4ymhmNZ1"
+    },
+    {
+      "artist": "Rye Coalition",
+      "album": "On Top",
+      "track": "One Daughter Hotter than One Thousand Suns",
+      "uri": "spotify:track:62xwNIGBYMFFAFo2kITjDs"
+    },
+    {
+      "artist": "The Civil Wars",
+      "album": "Barton Hollow",
+      "track": "Poison & Wine",
+      "uri": "spotify:track:3wsZYuHJrk3lssa7V7jvye"
+    },
+    {
+      "artist": "Max Romeo",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Stop Picking On Me",
+      "uri": "spotify:track:49vWoVnnaoEYslfXEy9Am0"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Don't Let Me Down",
+      "track": "Don't Let Me Down",
+      "uri": "spotify:track:1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "artist": "ILOVEMAKONNEN",
+      "album": "I LOVE MAKONNEN",
+      "track": "Swerve",
+      "uri": "spotify:track:3gGh2HhZ4gBoh6kZZbsl8w"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "So Unaware",
+      "uri": "spotify:track:1xxHNAaIBZA6sRE8IvFOdW"
+    },
+    {
+      "artist": "Cloud Nothings",
+      "album": "Here and Nowhere Else",
+      "track": "I'm Not Part of Me",
+      "uri": "spotify:track:68rdZO4AcPakdi2zaS7kPI"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Used to Matter",
+      "uri": "spotify:track:6L6TklFch4e5na49lGz5fZ"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Third Allemand for Renaissance Guitar",
+      "uri": "spotify:track:31QUqHT9ZrzRxsUJInoHKw"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Strongthany",
+      "uri": "spotify:track:1thWhTc6npIBaHefAK1JI6"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Earth Is Not a Cold Dead Place",
+      "track": "Memorial",
+      "uri": "spotify:track:0Qg0fE30FkpJScoZxeAXds"
+    },
+    {
+      "artist": "Sly Dunbar",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Mr. Bassie",
+      "uri": "spotify:track:0ZQusFyvVZ0xX3MBktsVOK"
+    },
+    {
+      "artist": "Matt Reed",
+      "album": "The Matt Reed Project",
+      "track": "Aubrey (Catch No Feelings) [feat. Matt Reed]",
+      "uri": "spotify:track:1id2gCuT81MhURDnRLqoO3"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Kevin (feat. Leon Bridges)",
+      "uri": "spotify:track:5qjWSyuU0rTLI8ohmx2K3Q"
+    },
+    {
+      "artist": "Tory Lanez",
+      "album": "B.L.O.W.",
+      "track": "B.L.O.W.",
+      "uri": "spotify:track:3YUK6HxkymcP7w76uFfn3w"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Ain't it Funny",
+      "uri": "spotify:track:7ItFoQDmQIh3MAPsxiP6Vt"
+    },
+    {
+      "artist": "NERO",
+      "album": "Welcome Reality +",
+      "track": "My Eyes",
+      "uri": "spotify:track:4gMIZhJUOCjmQxo1fwhhnK"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Marshall Mathers",
+      "uri": "spotify:track:3X4Oz9LjhhtgyOhVNlfoYa"
+    },
+    {
+      "artist": "Vundabar",
+      "album": "Antics",
+      "track": "Holy Toledo",
+      "uri": "spotify:track:7vlX33qkhVUSMUe0wpTOyc"
+    },
+    {
+      "artist": "Chip Tha Ripper",
+      "album": "The Cleveland Show",
+      "track": "Movie",
+      "uri": "spotify:track:4E9C4EsWnmrk5lmDcs05ww"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "St. Ides",
+      "uri": "spotify:track:7bkZhh7uKi9b60fjob2XGt"
+    },
+    {
+      "artist": "Joyce Manor",
+      "album": "Songs From Northern Torrance",
+      "track": "Fuck Koalacaust",
+      "uri": "spotify:track:2NmBffx9b4dwN3q1YLNMPd"
+    },
+    {
+      "artist": "Stalley",
+      "album": "Saving Yusuf",
+      "track": "Cut a Rug",
+      "uri": "spotify:track:78vzqZLlZHzXYXrcR47APJ"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "When Will I Change",
+      "uri": "spotify:track:0MYmRatiWIQ2Pxcgu4Nvxx"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Hell For It",
+      "uri": "spotify:track:0Sxs6lEQ9FuE9i02bfh2z3"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "The Drugs",
+      "uri": "spotify:track:6CTxqx9pxaoOxOYZSbsqDc"
+    },
+    {
+      "artist": "Ini Kamoze",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "World a Music",
+      "uri": "spotify:track:2bIOCGq7vIpzL1lSaTxvQG"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Coat Check Dream Song",
+      "uri": "spotify:track:33VdtDVi7SMkiHcfpfOrJ3"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Snow Falls in June",
+      "uri": "spotify:track:5moaLa2qhMpwUJLMI9JcXD"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "I Feel It Coming",
+      "uri": "spotify:track:3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Love Underneath My Thumb",
+      "uri": "spotify:track:6oU4jh7D79xY7ElHudI5ye"
+    },
+    {
+      "artist": "Young Money",
+      "album": "Rise Of An Empire",
+      "track": "We Alright",
+      "uri": "spotify:track:4CPKQcPimJvVABZ7ZvM8Ll"
+    },
+    {
+      "artist": "Gus Dapperton",
+      "album": "Orca",
+      "track": "Bluebird",
+      "uri": "spotify:track:4Gy9i08hxSqDR5v2RPqXmu"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Manx Dance for Medieval Lute",
+      "uri": "spotify:track:0WX3OWEzrJgCTFPGfZU7h6"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "A Lonely Night",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Mistakes",
+      "uri": "spotify:track:0Sox7tv3MK5h6AkFLUPHtY"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "False Alarm",
+      "uri": "spotify:track:4oeaIftdpT3JuZLcCkKmVE"
+    },
+    {
+      "artist": "Foxygen",
+      "album": "We Are the 21st Century Ambassadors of Peace & Magic",
+      "track": "San Francisco",
+      "uri": "spotify:track:2SOT09giYc28fUo9ppjCpw"
+    },
+    {
+      "artist": "El Huervo",
+      "album": "Vandereer",
+      "track": "All About You (Too)",
+      "uri": "spotify:track:2gN3sk8TvG203VINncQNjt"
+    },
+    {
+      "artist": "T.I.",
+      "album": "Money Talk",
+      "track": "Money Talk",
+      "uri": "spotify:track:6Q0EVciQv1n0lAtsnzTfxg"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "With You",
+      "uri": "spotify:track:5PMNu7kMZ4msbxiKnDTOt0"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Alone With You",
+      "uri": "spotify:track:2aqFRyBaP2fRGcbDbioLs9"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Tunnel Vision",
+      "uri": "spotify:track:0PqnSE9CdKvgC1FGO8K6Ik"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Childs Play",
+      "uri": "spotify:track:0k9RIzZtAo4DTQu0ZM6lNZ"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "In Reverse",
+      "uri": "spotify:track:5fKFrVV6CzOzPd725CFEfh"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "TV Queen",
+      "uri": "spotify:track:0U1mMZnWYieeksfwVuxGI1"
+    },
+    {
+      "artist": "Big Boi",
+      "album": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "track": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "uri": "spotify:track:2ETIYoKhwsqeoM00F1WYNu"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Best Man",
+      "uri": "spotify:track:2hIFuoXhzcZGvmdtSE35lc"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Fifth French Branle De Bourgogne",
+      "uri": "spotify:track:6Nh6wBQnjshuvz839gvawy"
+    },
+    {
+      "artist": "Twin Shadow",
+      "album": "Eclipse",
+      "track": "Old Love / New Love (feat. D'Angelo Lacy)",
+      "uri": "spotify:track:0WpySA9xTObxQ5Z9c7I2Bv"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Scottish Medieval Dance Melody for Lute",
+      "uri": "spotify:track:57JO1ndJymbw3QmWqVIq6o"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "track": "Dustbusters",
+      "uri": "spotify:track:1Qoufd4vuX5xO2Mc0wrXuh"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Pneumonia",
+      "uri": "spotify:track:6l2Q1Jb5c2VycqDEzp5ZlJ"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Beaches",
+      "uri": "spotify:track:6kQUQbrMk81yqvv8W4SIkO"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "In The Light",
+      "uri": "spotify:track:0Ulxa4or5zsSFIJc7rEao0"
+    },
+    {
+      "artist": "Jason Isbell",
+      "album": "Something More Than Free",
+      "track": "24 Frames",
+      "uri": "spotify:track:3TWffuE2fuzzl1qC2W2V6j"
+    },
+    {
+      "artist": "Robert Ellis",
+      "album": "Drivin'",
+      "track": "Drivin'",
+      "uri": "spotify:track:6ImjnKtweZnAnWHnOWcpbS"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Dance Off (feat. Idris Elba & Anderson .Paak)",
+      "uri": "spotify:track:7pDxNYVQLKzrbkCe8OCag3"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "How U Feel",
+      "uri": "spotify:track:7CWiWkccuRRdrmaW6AjVEf"
+    },
+    {
+      "artist": "TV Girl",
+      "album": "French Exit",
+      "track": "Lovers Rock",
+      "uri": "spotify:track:1H7zdcRD0gLGQY0w5ejGgX"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "If The Brakeman Turns My Way",
+      "uri": "spotify:track:3GRrqYoItfh9qupg5OorS7"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Feeling Ok",
+      "uri": "spotify:track:0hgsUnkawqDllP4OF4g9MN"
+    },
+    {
+      "artist": "BOYO",
+      "album": "Good as Gone",
+      "track": "Good as Gone",
+      "uri": "spotify:track:7HJVxNxvq0qcldkAkUDkHh"
+    },
+    {
+      "artist": "Small Black",
+      "album": "Limits of Desire",
+      "track": "Breathless",
+      "uri": "spotify:track:7MPSPxCd6aiGZwN0ro0ZSH"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Second French Fantasia for Renaissance Guitar",
+      "uri": "spotify:track:5gCQMl47iPGvtrO4USsZ9Q"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "Japanese Alice",
+      "uri": "spotify:track:15MDXKfcnA60gJ4tLmrZQy"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Wheel of Misfortune",
+      "uri": "spotify:track:37Ju0kxbk4xJCGJA1911C4"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Saving All My Sinning",
+      "uri": "spotify:track:4ztkoOeY4NyhCGOx7NoYVb"
+    },
+    {
+      "artist": "CLAIRE",
+      "album": "Broken Promise Land",
+      "track": "Broken Promise Land",
+      "uri": "spotify:track:6yUKNusGcQVLDANXdNZiKZ"
+    },
+    {
+      "artist": "Tigers Jaw",
+      "album": "Tigers Jaw",
+      "track": "The Sun",
+      "uri": "spotify:track:5bJt0jOz9spwJ1rJwSQJ1a"
+    },
+    {
+      "artist": "Jimmy Riley",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Everybody Needs Somebody to Love",
+      "uri": "spotify:track:3C8WDl0qwjsg4Byg4FOJst"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Been That Way",
+      "uri": "spotify:track:0zg5XJPiga7E5FxiehriG2"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First Dance of Princess in Medieval Castle",
+      "uri": "spotify:track:6UJCkPlhYUyPVrEkytzioJ"
+    },
+    {
+      "artist": "Dikembe",
+      "album": "Chicago Bowls",
+      "track": "Scottie Spliffin",
+      "uri": "spotify:track:4MN6AOLeIU2TTet6LLn67k"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Ruin Love",
+      "uri": "spotify:track:6r9HbVGQXqzAAJFJEexTGl"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "Carey",
+      "uri": "spotify:track:11dUk8E2z8Oj1JURwl7GJd"
+    },
+    {
+      "artist": "Don Mega",
+      "album": "Dreads & Gold, Vol. 1",
+      "track": "50k (Remix) [feat. Waka Flocka & T.I.]",
+      "uri": "spotify:track:5uMmtUWOe4y4vNncHdye1B"
+    },
+    {
+      "artist": "My Morning Jacket",
+      "album": "Golden",
+      "track": "Golden",
+      "uri": "spotify:track:3JSm3GxcwBvZqSNiZhWIec"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Let's Eat (feat. Xperience)",
+      "uri": "spotify:track:5uTKXcuypBLMtXbVaw9Bdt"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "call the police",
+      "uri": "spotify:track:51vOZQuGnqPXfU5VbTZqZb"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "All I Wanna Do",
+      "uri": "spotify:track:20cEKbaHuqrkuuEWEMsdAe"
+    },
+    {
+      "artist": "Belmont",
+      "album": "Belmont",
+      "track": "Hollowed Out",
+      "uri": "spotify:track:5k2pZQTQpaCEOHdP7BN7WF"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Advanced Race",
+      "uri": "spotify:track:35QHXQ7gIFvlWjj4T5amAD"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "2014 Forest Hills Drive",
+      "track": "A Tale of 2 Citiez",
+      "uri": "spotify:track:7lL3MvFWFFSD25pBz72Agj"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "U With Me?",
+      "uri": "spotify:track:4MSjMv3kpbLEeyGfIh52qH"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Earth Is Not a Cold Dead Place",
+      "track": "The Only Moment We Were Alone",
+      "uri": "spotify:track:2g0QJibunGtzPqMM1DsckW"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Wasted Time",
+      "uri": "spotify:track:7mhGeAWscqB3KnRPBBNenB"
+    },
+    {
+      "artist": "Gabby's World",
+      "album": "O.K.",
+      "track": "I Admit I'm Scared",
+      "uri": "spotify:track:7pgcvWZuYmIufGusuG0E1V"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "The Last Time I Saw Richard",
+      "uri": "spotify:track:5LZLOOTwrA0HgTszqCgZ3C"
+    },
+    {
+      "artist": "Timecop1983",
+      "album": "Night Drive",
+      "track": "Back to You",
+      "uri": "spotify:track:0Vj2je2PLl1TU78DAMArat"
+    },
+    {
+      "artist": "Gunna",
+      "album": "Drip Season 2",
+      "track": "YSL (feat. Playboi Carti)",
+      "uri": "spotify:track:1xvUQPmgQ9EcBgVR5VocbX"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Growing Up (feat. Ed Sheeran)",
+      "uri": "spotify:track:44T13PWJ87jb3lFElhVIHx"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Where U From",
+      "uri": "spotify:track:11cCVYamncF0ezwjj1irQ0"
+    },
+    {
+      "artist": "LNDN DRGS",
+      "album": "Burnout 3",
+      "track": "Burnout 3",
+      "uri": "spotify:track:6PmZ40K7aoCujcZMzYuJD3"
+    },
+    {
+      "artist": "Lil Cray",
+      "album": "Kyrie Irving",
+      "track": "Kyrie Irving",
+      "uri": "spotify:track:552R1Fa3mmKVV1xTgZrcJ1"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First Fantasia for Renaissance Guitar",
+      "uri": "spotify:track:1otrwfjmWUS1A7mVIAc87G"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Feel No Ways",
+      "uri": "spotify:track:12C1XYFQGZYXRYJNbsgDc7"
+    },
+    {
+      "artist": "Sexy Girls",
+      "album": "We Changed Our Name To Spirit Ghost",
+      "track": "We Changed our Name to Spirit Ghost",
+      "uri": "spotify:track:3IQEIcle8D3ldTogQYZgvQ"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "Miss You",
+      "uri": "spotify:track:00uMCZnIxEv9fXlyRhgGfr"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "The Real Slim Shady",
+      "uri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "artist": "Enjoy",
+      "album": "Small Car Big Wheels",
+      "track": "Productivity Has It Been This Long",
+      "uri": "spotify:track:1I3fS9adpHH1CWAO1fYClA"
+    },
+    {
+      "artist": "Tigers Jaw",
+      "album": "I Won't Care How You Remember Me",
+      "track": "Body Language",
+      "uri": "spotify:track:6BpZV5puLFApc0SGYV1rSq"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Fourth French Branle De Bourgogne",
+      "uri": "spotify:track:0b2NZ3iHJ9OrdyxsP4qOzC"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "Crazy For You",
+      "track": "Boyfriend",
+      "uri": "spotify:track:3ASlnePYdvR9RPlQyTJipP"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Fire Alive (Bonus track)",
+      "uri": "spotify:track:7mS6ciMlbJaUb49wHjbix0"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Views",
+      "uri": "spotify:track:6oeCLDX1ML2tPOPT1JuyaJ"
+    },
+    {
+      "artist": "Bankroll Fresh",
+      "album": "Life of a Hot Boy",
+      "track": "Hot Boy",
+      "uri": "spotify:track:7sHy6qZZdighqUZfupRb0r"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Soul Singer In A Session Band",
+      "uri": "spotify:track:0H2Ou1snGsEmMZ7eJYVCll"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Slippery When Wet",
+      "track": "Livin' On A Prayer",
+      "uri": "spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "River",
+      "uri": "spotify:track:0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "artist": "Little John",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Spin You Roll",
+      "uri": "spotify:track:0GW7NGMmOO76gDg8kToGG1"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Hands of Time",
+      "uri": "spotify:track:6nzdN4h7KcKCFvy7NU8ANO"
+    },
+    {
+      "artist": "Celeste Krishna",
+      "album": "Those Words, Those Frames",
+      "track": "Come on and Move Me",
+      "uri": "spotify:track:0k6hxzX5C047LD8NXHMckp"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Too Good",
+      "uri": "spotify:track:7fJtPlEZKxu6gvkfBFc5tW"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Lost",
+      "uri": "spotify:track:1IIWODSnr5MIIwpdHyX10P"
+    },
+    {
+      "artist": "DJ Tilly",
+      "album": "Vol. 8",
+      "track": "Dreams Money Can Buy",
+      "uri": "spotify:track:0kCbRcLszjZkEGBNmEVbHT"
+    },
+    {
+      "artist": "Gregory Isaacs",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Soon Forward",
+      "uri": "spotify:track:4vvPgvXzp7CE2gSPojHj14"
+    },
+    {
+      "artist": "Pet Symmetry",
+      "album": "Two Songs About Cars. Two Songs with Long Titles.",
+      "track": "Please Don't Tell My Father That I Used His 1996 Honda Accord to Destroy the Town of Willow Grove, Pennsylvania in 2002",
+      "uri": "spotify:track:2xnRe4ajdGpRjWVB0loSHx"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Rockin’",
+      "uri": "spotify:track:36YCdzT57us0LhDmCYtrNE"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Uncle Ivan",
+      "uri": "spotify:track:2MVo90oRRgmsF53JtHJXzd"
+    },
+    {
+      "artist": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+      "album": "Harmlessness",
+      "track": "You Can't Live There Forever",
+      "uri": "spotify:track:0m5dYg8PUPEVf8hjXz8QoO"
+    },
+    {
+      "artist": "Mitch Murder",
+      "album": "Current Events",
+      "track": "Intermission",
+      "uri": "spotify:track:415QHtaxETrlhvKl994VmG"
+    },
+    {
+      "artist": "Neko Case",
+      "album": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You",
+      "track": "Night Still Comes",
+      "uri": "spotify:track:0l5TOyEd5RswsWnqOaOX0X"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Public Service Announcement 2000",
+      "uri": "spotify:track:1WopKLOG4Kud0H1r3xrCfT"
+    },
+    {
+      "artist": "Dayglow",
+      "album": "Fuzzybrain",
+      "track": "Listerine",
+      "uri": "spotify:track:5LEVjmo2QweDHc7k19aFcp"
+    },
+    {
+      "artist": "Yo Gotti",
+      "album": "Down In the DM",
+      "track": "Down In the DM",
+      "uri": "spotify:track:2MqGvys5HMS5loK1p4Augh"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Sabotage",
+      "uri": "spotify:track:3ZX84QuHbl50xlG4E1rcHe"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Rolling Stone",
+      "uri": "spotify:track:1LUyHPbfI0EXbMkvHR0PNX"
+    },
+    {
+      "artist": "Ducktails",
+      "album": "Ducktails III: Arcade Dynamics",
+      "track": "Killin The Vibe",
+      "uri": "spotify:track:2EjQHNY358J7m1nUeMaWFw"
+    },
+    {
+      "artist": "Beach Fossils",
+      "album": "Clash The Truth",
+      "track": "Sleep Apnea",
+      "uri": "spotify:track:7H4AhGitjSmRZxKMaeH9wX"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Bambi",
+      "uri": "spotify:track:6W9K0lX4XvVvFImkA5WUOt"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "I Tried",
+      "uri": "spotify:track:5vRj2D7nWIfJQgFJry3iFs"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "track": "Fading Fast",
+      "uri": "spotify:track:1zO2S0umrqk9Yj7Y5cjlbb"
+    },
+    {
+      "artist": "Big Grams",
+      "album": "Big Grams",
+      "track": "Fell In the Sun",
+      "uri": "spotify:track:1qyRvPjbQZbPPwVGtApQ7P"
+    },
+    {
+      "artist": "Quavo",
+      "album": "QUAVO HUNCHO",
+      "track": "FLIP THE SWITCH (feat. Drake)",
+      "uri": "spotify:track:1rlIrbWboTRGeKfHhgbJRZ"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "New Year",
+      "uri": "spotify:track:00Lbd2M3gAIpoR7kakyF3t"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "The Walker",
+      "uri": "spotify:track:46EOWTszdIfllYY4o6rjkY"
+    },
+    {
+      "artist": "Jeezy",
+      "album": "Let’s Get It: Thug Motivation 101",
+      "track": "Trap Star",
+      "uri": "spotify:track:225qccaN5uomyVdIHTKzla"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "track": "A Woman's Wisdom",
+      "uri": "spotify:track:54smPHzhjg72kCoNBmyXrt"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Wham Bam Shang-A-Lang",
+      "uri": "spotify:track:3qrEG6rQ9Qm72MNWeUKKiU"
+    },
+    {
+      "artist": "Frankie Cosmos",
+      "album": "Fit Me In",
+      "track": "Young",
+      "uri": "spotify:track:4LMlviHZfDUXWIZhvGEAKi"
+    },
+    {
+      "artist": "Bobby Shmurda",
+      "album": "Shmurda She Wrote",
+      "track": "Wipe The Case Away (feat. Ty Real)",
+      "uri": "spotify:track:1KitG6cCLO5Vl5z0kbgXgJ"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Thunderstorms",
+      "uri": "spotify:track:2nYQdIIQlc7U29XDTDmOgS"
+    },
+    {
+      "artist": "YG Hootie",
+      "album": "Destroy & Rebuild",
+      "track": "Two Presidents (feat. Kendrick Lamar)",
+      "uri": "spotify:track:2jpDAw0ehIRhYwYZkJjuRt"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Classic Cars",
+      "uri": "spotify:track:7w5BxGWXLSbaNEwPVipQLg"
+    },
+    {
+      "artist": "Clarence Parks",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Joker Lover",
+      "uri": "spotify:track:1VLqMGeit3jnzIq1gkWaQO"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "So Long",
+      "uri": "spotify:track:37uGVUcCkXn2FIjxhlqa9r"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Eye 2 Eye",
+      "uri": "spotify:track:4vwfOiyWxXeEdx4ejAJgdx"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "Canyon on Fire",
+      "uri": "spotify:track:6Zv8IFfsmPmwg7lDiauEL8"
+    },
+    {
+      "artist": "Richard Swift",
+      "album": "The Hex",
+      "track": "Broken Finger Blues",
+      "uri": "spotify:track:0O2WHAJUeYcElqNz8g2Q1V"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "album": "F♯ A♯ ∞",
+      "track": "The Dead Flag Blues",
+      "uri": "spotify:track:0YzMEu5sGNX0JKr9mdBtzd"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Die For You",
+      "uri": "spotify:track:2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Still Here",
+      "uri": "spotify:track:4YJmZfvlheSziXem8HBWrj"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "You and Me",
+      "uri": "spotify:track:0DmZM13fo3Oq96ZWyHWpiL"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Modern Slavery",
+      "uri": "spotify:track:7J6bnDDitOwfelaJNixHhL"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "Habits & Contradictions",
+      "track": "Hands on the Wheel (feat. Asap Rocky)",
+      "uri": "spotify:track:78JKJfKsqgeBDBF58gv1SF"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Clairaudients (Kill Or Be Killed)",
+      "uri": "spotify:track:2CLBxZ6acnKB3JzaWLO4Et"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "An Ocean In Between The Waves",
+      "uri": "spotify:track:4Rw5ErjPrtzAa4lJz4KfxM"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Cleopatra",
+      "uri": "spotify:track:2ToW7zhGCrVrLU4fiKj9U1"
+    },
+    {
+      "artist": "Mastodon",
+      "album": "Crack the Skye",
+      "track": "Oblivion",
+      "uri": "spotify:track:4Ynr1SPCeUI0W0YPeSFSIK"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Patience",
+      "uri": "spotify:track:5ONbCAFFnAJ0YGClEeddcU"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Third French Branle De Bourgogne",
+      "uri": "spotify:track:1hh9hacYYyVwmcfIgvhVXm"
+    },
+    {
+      "artist": "Adam Freeland",
+      "album": "Now & Them",
+      "track": "Burn The Clock",
+      "uri": "spotify:track:5Q0TlXwH5xo8hVL924XigX"
+    },
+    {
+      "artist": "Blake Banks",
+      "album": "Shameless",
+      "track": "America (feat. Post Malone & Saucelord Rich)",
+      "uri": "spotify:track:6HUagzhI0vaGvmemdVbyCv"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "End of a Spark",
+      "uri": "spotify:track:5265Bk6HNVM0mKtjYYF328"
+    },
+    {
+      "artist": "Damien Jurado",
+      "album": "Visions of Us on the Land",
+      "track": "Exit 353",
+      "uri": "spotify:track:4p4z0idq0P1hjKerMQibxk"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Suffering",
+      "uri": "spotify:track:0GBcfTDD4OjGTGeVVgFl8v"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "track": "The Girls (feat. Weege)",
+      "uri": "spotify:track:1v0gNJuiHAWhs8XZE7lBUw"
+    },
+    {
+      "artist": "HOMESHAKE",
+      "album": "Midnight Snack",
+      "track": "Give It to Me",
+      "uri": "spotify:track:2UsREIjT72ZEZnhdvpyg7R"
+    },
+    {
+      "artist": "City Shawn",
+      "album": "Keep Goin - Single",
+      "track": "Keep Goin",
+      "uri": "spotify:track:0F0DaQS0Y3V8Vg13ggMiAx"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "track": "Musician (It's Not an Easy Life)",
+      "uri": "spotify:track:4SHGsWd9bBFTgIoeSdIQJ4"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Gothic Palace Fantasy for Lute",
+      "uri": "spotify:track:20McPUOXTp14kthYLq560A"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Spy Dolphin",
+      "uri": "spotify:track:38ATCHzyw1I7EjZpvvnXBm"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Vanguard",
+      "uri": "spotify:track:1lHgypUMksdQluI0mFhieN"
+    },
+    {
+      "artist": "The Garden",
+      "album": "Thy Mission",
+      "track": "Thy Mission",
+      "uri": "spotify:track:7LcmuGeSXQzQlteW3yGtWb"
+    },
+    {
+      "artist": "FM Attack",
+      "album": "Deja Vu",
+      "track": "Magic",
+      "uri": "spotify:track:6CRQ5l0JsU35hBNkz3vfcb"
+    },
+    {
+      "artist": "Kyle Duke and The Brown Bag Boys",
+      "album": "Aquatic Pop",
+      "track": "She's Your Queen",
+      "uri": "spotify:track:4ya5sg7W7lmSjdKwBw1mXP"
+    },
+    {
+      "artist": "White Reaper",
+      "album": "The World's Best American Band",
+      "track": "Judy French",
+      "uri": "spotify:track:7f4MQxuZWk6iMI4KygEC7P"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "track": "The Closest Thing to Living",
+      "uri": "spotify:track:7x6fztBCv2KLcN5GGOxBwd"
+    },
+    {
+      "artist": "Lucy In Disguise",
+      "album": "1987 EP",
+      "track": "1987",
+      "uri": "spotify:track:580CcfTxe8eNCcXlTizmPr"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "oh baby",
+      "uri": "spotify:track:53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Gonna Be Ready",
+      "uri": "spotify:track:3svW8i37tlNA6LKZ1mDJA3"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Summers Over Interlude",
+      "uri": "spotify:track:04CpzA2BdOLEz7EMp5uwTU"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "track": "Myth",
+      "uri": "spotify:track:0agBriTy7L5vFjeFT4qXr9"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Intro (Difference)",
+      "uri": "spotify:track:39a23fzBmNlAzz7fHok1Jo"
+    },
+    {
+      "artist": "Gunship",
+      "album": "GUNSHIP",
+      "track": "Tech Noir",
+      "uri": "spotify:track:5VKEsChbUowEF2BT0gJSGX"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Need To Know (feat. Chance The Rapper)",
+      "uri": "spotify:track:1OsjZeUg7cGuiCr4E8schs"
+    },
+    {
+      "artist": "K CAMP",
+      "album": "Only Way Is Up",
+      "track": "Till I Die",
+      "uri": "spotify:track:537FQYGUcu4SgCCasIhh4f"
+    },
+    {
+      "artist": "Death From Above 1979",
+      "album": "You're A Woman, I'm A Machine",
+      "track": "You're a Woman, I'm a Machine",
+      "uri": "spotify:track:3v84otT0tjqhDPpm52HLJ6"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Sixth French Branle De Bourgogne",
+      "uri": "spotify:track:7mkeMeSn8147vo7Mflfg17"
+    },
+    {
+      "artist": "Brothertiger",
+      "album": "Brothertiger Plays: Tears for Fears' Songs from the Big Chair",
+      "track": "Everybody Wants to Rule the World",
+      "uri": "spotify:track:75lEtKX3MoBmnUSmXn75E2"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Exchange",
+      "uri": "spotify:track:43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Go Gina",
+      "uri": "spotify:track:6Vmow8PuUaU7W1T2WWLZk2"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "My Old Man",
+      "uri": "spotify:track:6NQRhp9Vv5RRySazV7ttBl"
+    },
+    {
+      "artist": "Billy Bragg",
+      "album": "Mermaid Avenue",
+      "track": "California Stars",
+      "uri": "spotify:track:38paDDziQ57k1f4VfKTeGk"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "american dream",
+      "uri": "spotify:track:60k0xRw1oYUwZYp4e2iue8"
+    },
+    {
+      "artist": "Michael Prophet",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Amazing Love",
+      "uri": "spotify:track:5H2eNdZVVzqj89yp7Nhwff"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "Montana",
+      "uri": "spotify:track:1JR1tkmUrBb1xYA7PlnZLn"
+    },
+    {
+      "artist": "BJ The Chicago Kid",
+      "album": "In My Mind",
+      "track": "Church",
+      "uri": "spotify:track:6PmnGYDsruYLBNY4Rpx4t9"
+    },
+    {
+      "artist": "ILOVEMAKONNEN",
+      "album": "I LOVE MAKONNEN",
+      "track": "Tuesday (feat. Drake)",
+      "uri": "spotify:track:4PWY72AubTjoZrohQt0pWn"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "track": "The End",
+      "uri": "spotify:track:08BdtnrdMdPdzOFDDxWQ4G"
+    },
+    {
+      "artist": "Acid Ghost",
+      "album": "Warhol",
+      "track": "Not the Same Person",
+      "uri": "spotify:track:6lXSBOTOmviaeeDlTBP79A"
+    },
+    {
+      "artist": "Dawn Golden",
+      "album": "Blow E.P.",
+      "track": "Blacks",
+      "uri": "spotify:track:1Q9GCHwQK6lrBu8obQAKmE"
+    },
+    {
+      "artist": "Child Actor",
+      "album": "Victory",
+      "track": "If You Loved Me",
+      "uri": "spotify:track:69DxxpPnVWv7EWlQCxIz5D"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Bitch Please II",
+      "uri": "spotify:track:7lgvU7WnwcNZ8dbGUz8yhP"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "Spectre",
+      "uri": "spotify:track:1vdN00jfVssgwJBMwmSAoT"
+    },
+    {
+      "artist": "8Ball & MJG",
+      "album": "Comin Out Hard",
+      "track": "9 Little Millimeta Boys",
+      "uri": "spotify:track:2d1qiSnmzS5jiAAss3Svbr"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "track": "Tell Me What I Don't Know",
+      "uri": "spotify:track:3yM8iyra4fkuyf0H5RFHuE"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "How Good It Feels",
+      "uri": "spotify:track:7t5CwCl8mzm5geA7bHZhRS"
+    },
+    {
+      "artist": "Modest Mouse",
+      "album": "Interstate 8",
+      "track": "Edit the Sad Parts",
+      "uri": "spotify:track:4wb4m3HzBUSUGNkT8FvVLj"
+    },
+    {
+      "artist": "Yo Gotti",
+      "album": "Cocaine Muzik",
+      "track": "Keep It on the Low",
+      "uri": "spotify:track:5lbnAJZ6pVYJJydqwE8VmR"
+    },
+    {
+      "artist": "Garoad",
+      "album": "VA-11 Hall-A (Original Soundtrack: Second Round)",
+      "track": "Welcome to VA-11 Hall-A",
+      "uri": "spotify:track:184QrVUdBuDdrfxFqff9gf"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Stan",
+      "uri": "spotify:track:3UmaczJpikHgJFyBTAJVoz"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "track": "At The Bottom Of Everything",
+      "uri": "spotify:track:6588w3GdDxmdtLMLuwf1tO"
+    },
+    {
+      "artist": "Dayglow",
+      "album": "Fuzzybrain",
+      "track": "Can I Call You Tonight?",
+      "uri": "spotify:track:64lsIF5pw0sJY0gV5kz0RN"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Born in Babylon",
+      "uri": "spotify:track:6VNQN9FH6wafglq5xSKu92"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Secrets",
+      "uri": "spotify:track:00NAQYOP4AmWR549nnYJZu"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "track": "Jesus Bill!",
+      "uri": "spotify:track:7n1j3cEJhLDZ6GezCb766Q"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "The Train (feat. Carla Morrison)",
+      "uri": "spotify:track:1Xl0Rt4bMdEw5n0nMax2qH"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "Who Will Decide",
+      "uri": "spotify:track:3Nni5PpADzqR8RJsnvI73Y"
+    },
+    {
+      "artist": "Conduits",
+      "album": "Conduits",
+      "track": "Top of the Hill",
+      "uri": "spotify:track:4LPaThadoXkikpPifeojwC"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Bleed Through",
+      "uri": "spotify:track:5TTYg4pKqnxrEU1jRMCX1T"
+    },
+    {
+      "artist": "Action Bronson",
+      "album": "Mr. Wonderful",
+      "track": "Actin Crazy",
+      "uri": "spotify:track:3clX2NMmjaAHmBjeTSa9vV"
+    },
+    {
+      "artist": "Evil Empire",
+      "album": "Trending Topics: March Madness",
+      "track": "Gangbang",
+      "uri": "spotify:track:0zjV8BMS3eKDuKPgKRAXki"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "track": "Argentina (Parts I, II, III)",
+      "uri": "spotify:track:2ugX5VSIyAdjwu5os0WEOV"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Reminder",
+      "uri": "spotify:track:37F0uwRSrdzkBiuj0D5UHI"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Favourite Colour",
+      "uri": "spotify:track:0mSBXm1Exrecfgf6zybZ7j"
+    },
+    {
+      "artist": "Joyce Manor",
+      "album": "S/T",
+      "track": "Constant Headache",
+      "uri": "spotify:track:6baeAT0jVAxvnLn8rIN50X"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Ninth French Branle De Bourgogne",
+      "uri": "spotify:track:6fNgwfefPJ7XeJwetdxdnB"
+    },
+    {
+      "artist": "Maritime",
+      "album": "Magnetic Bodies/Maps of Bones",
+      "track": "Roaming Empire",
+      "uri": "spotify:track:2Ze0YvSXz8CnC81hw5rXNo"
+    },
+    {
+      "artist": "Hockey Dad",
+      "album": "Blend Inn",
+      "track": "Join the Club",
+      "uri": "spotify:track:4E5XVvDkTGcPa71m5HQnTm"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "track": "Saint",
+      "uri": "spotify:track:7foypmc7KZyU716Yv63BPe"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Make A Plan To Love Me",
+      "uri": "spotify:track:1LmBBpywUI3d2Td2hQ8GST"
+    },
+    {
+      "artist": "Ambelique",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Worker Man",
+      "uri": "spotify:track:4VxuzTfSH8OxEe3IUkcjme"
+    },
+    {
+      "artist": "Kid Ink",
+      "album": "Summer In The Winter",
+      "track": "That's on You",
+      "uri": "spotify:track:2fsULZDbmjjZPtr1PfeBRz"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "i used to",
+      "uri": "spotify:track:5LQVkIyf3HwZ9i6Xk1i59H"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "I Must Belong Somewhere",
+      "uri": "spotify:track:693sUw1n7EwTtdplMHkHNk"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Who Knew",
+      "uri": "spotify:track:15joiMls8SpP1VtGivYh6i"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "track": "My Shadow",
+      "uri": "spotify:track:7nY2CU6yt3k3Pps1dLNcjH"
+    },
+    {
+      "artist": "Au/Ra",
+      "album": "Concrete Jungle (Acoustic)",
+      "track": "Concrete Jungle - Acoustic",
+      "uri": "spotify:track:4yxL6eoSsZ04lN0VezKgcr"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "track": "Hell Yeah",
+      "uri": "spotify:track:5nJC2EpdoHs8yx1MQwFimT"
+    },
+    {
+      "artist": "Sonny Digital",
+      "album": "Good",
+      "track": "Good",
+      "uri": "spotify:track:1itPjA8nnwtZ0LfpQDFLNb"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "track": "Spy Turtles",
+      "uri": "spotify:track:33JtybeC2lVkwWWIpEMu1e"
+    },
+    {
+      "artist": "Young Money",
+      "album": "Rise Of An Empire",
+      "track": "Bang",
+      "uri": "spotify:track:1nvtuOQrr03bGtGt6vlQPg"
+    },
+    {
+      "artist": "Horace Andy",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Tell Me Why",
+      "uri": "spotify:track:7sDrJmtlBcNAPiVJvS31LF"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "track": "Land Locked Blues",
+      "uri": "spotify:track:558BHSecDFS85E2L2aKzP8"
+    },
+    {
+      "artist": "No Buses",
+      "album": "Boys Missed The Bus",
+      "track": "Pretty Old Man",
+      "uri": "spotify:track:09fNyeCFUbrTor4DY7kX2b"
+    },
+    {
+      "artist": "ILOVEMAKONNEN",
+      "album": "I LOVE MAKONNEN",
+      "track": "I Don't Sell Molly No More",
+      "uri": "spotify:track:2aLJLYZe3dkIvMM9wGb4Gw"
+    },
+    {
+      "artist": "Fat Tony",
+      "album": "Smart Ass Black Boy",
+      "track": "Hood Party - feat. Kool A.D. & Despot",
+      "uri": "spotify:track:5TOQOvhBT4iGwnv43aV433"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Crumb",
+      "track": "Vinta",
+      "uri": "spotify:track:4jV8ThgB8B7BB4zBFH7rNe"
+    },
+    {
+      "artist": "Muted Color",
+      "album": "Pastel",
+      "track": "Daisy Chain",
+      "uri": "spotify:track:2jAxKLW8lw39joDZ4LtUq3"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Cupid Deluxe",
+      "track": "You're Not Good Enough",
+      "uri": "spotify:track:7vcNp4cj4uF4AyX5aKY4Ps"
+    },
+    {
+      "artist": "Jeezy",
+      "album": "The Recession",
+      "track": "Put On",
+      "uri": "spotify:track:5dANgSy7v091dhiPnEXNrf"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Rodeo (Expanded Edition)",
+      "track": "Antidote",
+      "uri": "spotify:track:1wHZx0LgzFHyeIZkUydNXq"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "I'm Back",
+      "uri": "spotify:track:3xVtc7PB4V3AqAfq4Iahli"
+    },
+    {
+      "artist": "The Civil Wars",
+      "album": "Between The Bars (EP)",
+      "track": "Billie Jean",
+      "uri": "spotify:track:4zzi2eD2cEPpQ3a307mPPj"
+    },
+    {
+      "artist": "Tune-Yards",
+      "album": "W H O K I L L",
+      "track": "Bizness",
+      "uri": "spotify:track:08oSPuXfichvi5VRAaewbV"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "album": "True Sadness",
+      "track": "True Sadness",
+      "uri": "spotify:track:6HWkuzv4yxMeQoO1KgBkrW"
+    },
+    {
+      "artist": "Turnover",
+      "album": "Good Nature",
+      "track": "Butterfly Dream",
+      "uri": "spotify:track:0mxU9t3ZFKv4qitZQVHC5u"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Ten Nine Fourteen",
+      "uri": "spotify:track:725fdnXEqS0Xs1sTvdNuHq"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "track": "This Flight Tonight",
+      "uri": "spotify:track:0bpXQ5CZ9rzAaGUSPKzI1r"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "Ballade About Rose and Cross for Medieval Lute",
+      "uri": "spotify:track:1sPnvknJWC6KeWuOsUYHpp"
+    },
+    {
+      "artist": "ODESZA",
+      "album": "In Return",
+      "track": "Bloom",
+      "uri": "spotify:track:0vtX8UMG38p7IXpP4lZJ2z"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "Middleman",
+      "uri": "spotify:track:6tPL1qfRGTmqnLNgVeXfmK"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "SKELETONS",
+      "uri": "spotify:track:6NMtzpDQBTOfJwMzgMX0zl"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Remember Me?",
+      "uri": "spotify:track:7996f9NZeypc4jqfc6hJUa"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "track": "Silencer (No Remorse No Regret) [feat. KALAX]",
+      "uri": "spotify:track:0sL5Im2m9bntan6f5BqlP1"
+    },
+    {
+      "artist": "The Districts",
+      "album": "A Flourish and A Spoil",
+      "track": "Young Blood",
+      "uri": "spotify:track:4FAAaJhVFRxFzvPEOWe1rl"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Ken Kaniff - Skit",
+      "uri": "spotify:track:4HsaoezrUA96qMzDK3ZWnq"
+    },
+    {
+      "artist": "Pat Kelly",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "track": "Let's Get Married",
+      "uri": "spotify:track:4d4FDPHDqklEln28RIiOYL"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
+      "uri": "spotify:track:5pfJsMwoRYKampPay8amX0"
+    },
+    {
+      "artist": "Far Caspian",
+      "album": "The Heights",
+      "track": "These Times",
+      "uri": "spotify:track:4pryFAc8n4Z2bO7rmz6QNF"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "track": "Poison Oak",
+      "uri": "spotify:track:7C4LTWRsikDhkxXrgc29q0"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Earth Is Not a Cold Dead Place",
+      "track": "Six Days At The Bottom Of The Ocean",
+      "uri": "spotify:track:6felOCUcTlQkJFDHirtjMj"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Frankenstein",
+      "uri": "spotify:track:47WRVcljKp1Ke76BBxdhLQ"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Rodeo (Expanded Edition)",
+      "track": "3500 (feat. Future & 2 Chainz)",
+      "uri": "spotify:track:1SGt65i9AnXYdDQt1AtDRH"
+    },
+    {
+      "artist": "Sparklehorse",
+      "album": "Maria's Little Elbows",
+      "track": "Wish You Were Here",
+      "uri": "spotify:track:239IJFSqoUEL2k8tWzblWm"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "track": "Favourite Food",
+      "uri": "spotify:track:5xSDVCkI1K1cdEd1rfEdx5"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "other voices",
+      "uri": "spotify:track:0tAvA30pZhd3IUeH0obJkm"
+    },
+    {
+      "artist": "Gryff",
+      "album": "Jessie",
+      "track": "Jessie",
+      "uri": "spotify:track:6hJtFThl61fpSinlRVX9i3"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "track": "Burning",
+      "uri": "spotify:track:6pc6BNY6rFvdmf9O3PQizQ"
+    },
+    {
+      "artist": "Turnover",
+      "album": "Peripheral Vision",
+      "track": "New Scream",
+      "uri": "spotify:track:4pFNMSkCmEHk8U408TmQTE"
+    },
+    {
+      "artist": "Bahamas",
+      "album": "Bahamas is Afie",
+      "track": "All The Time",
+      "uri": "spotify:track:40WXqoyOLAAugGmJWZU1FY"
+    },
+    {
+      "artist": "Shovels & Rope",
+      "album": "Busted Jukebox, Volume 1",
+      "track": "Unknown Legend",
+      "uri": "spotify:track:6INaSJ4clfZ8pvXSGZQnJ7"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "tonite",
+      "uri": "spotify:track:1yAldIvjyQQ6gU5TMNTJNo"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "track": "First French Branle De Bourgogne for Renaissance Guitar",
+      "uri": "spotify:track:6jPUPvUMBUbGP7r8RvxUPq"
+    },
+    {
+      "artist": "Craft Spells",
+      "album": "Idle Labor",
+      "track": "Party Talk",
+      "uri": "spotify:track:6N2kBsYvZaS7tO5awPcnSV"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Rest of My Life",
+      "uri": "spotify:track:7aP6GXrxvq0836pzL4kHK8"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "track": "Radio",
+      "uri": "spotify:track:1yfD78kTBVVUjvNPfUKwZJ"
+    },
+    {
+      "artist": "Fat Tony",
+      "album": "Smart Ass Black Boy",
+      "track": "BKNY - feat. Old Money",
+      "uri": "spotify:track:3ORwg4gsOSph3mxcLHqFX3"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "track": "Kill You",
+      "uri": "spotify:track:5eGEc27nnhtmcOh6RC890a"
+    },
+    {
+      "artist": "Phora",
+      "album": "Yours Truly Forever",
+      "track": "Facts",
+      "uri": "spotify:track:6Gw1Ke0vN571pOtnEoZyPh"
+    },
+    {
+      "artist": "fingerspit",
+      "album": "The Red Strings Club Original Soundtrack",
+      "track": "Freelance Torturer",
+      "uri": "spotify:track:03wcltgTi7qAkx7T6jCT1J"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "track": "emotional haircut",
+      "uri": "spotify:track:1KwRLMrU6PjhfQCtX3CrKS"
+    },
+    {
+      "artist": "As I Lay Dying",
+      "album": "Shadows Are Security",
+      "track": "Losing Sight",
+      "uri": "spotify:track:21lljWLLI0vIPrco0kQNoV"
+    },
+    {
+      "artist": "Connan Mockasin",
+      "album": "Caramel",
+      "track": "I'm The Man, That Will Find You",
+      "uri": "spotify:track:07ahbydCmD0CLoN2zIx8bR"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "track": "Apogee",
+      "uri": "spotify:track:3RpWjYMS78Q2v2OmPO7A1x"
+    },
+    {
+      "artist": "Real Estate",
+      "album": "In Mind",
+      "track": "Saturday",
+      "uri": "spotify:track:50wiHcvfcpQSo5P5rbyozc"
+    },
+    {
+      "artist": "Shook",
+      "album": "Continuum",
+      "track": "You Were Bigger Than Life",
+      "uri": "spotify:track:1wQllvErUXLAydIHE1a4eu"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Waking Up",
+      "uri": "spotify:track:7JENU2CN80bqjIA1tCCSYC"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "track": "Losing My Mind",
+      "uri": "spotify:track:5QUqdph9FFOUBBXhIynXwK"
+    },
+    {
+      "artist": "Jon Seger",
+      "album": "Little Wednesday",
+      "track": "Gold Pub",
+      "uri": "spotify:track:5oGx950gKlqFY02AlC9mG9"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "track": "Sleep On The Floor",
+      "uri": "spotify:track:5MMZJtHOiH1RmQSSe3DJdg"
+    },
+    {
+      "artist": "Speaker Knockerz",
+      "album": "Married to the Money II #Mttm2",
+      "track": "Sk the Legend (feat. Big Ant)",
+      "uri": "spotify:track:6Oa9RQmxUkhXKmwqlrymQY"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "track": "Light Tunnels (feat. Mike Slap)",
+      "uri": "spotify:track:6liGqN48zCba8OPKVu9oDn"
+    },
+    {
+      "artist": "Lost Years",
+      "album": "Black Waves",
+      "track": "Snap",
+      "uri": "spotify:track:5B4xyoCTmZRUnDh2Z9kKxS"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "Cassadaga",
+      "track": "No One Would Riot For Less",
+      "uri": "spotify:track:2100gWvEXrcaT5k3JpC9gX"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Champ",
+      "uri": "spotify:album:3RctBF32H2dvLBj5DVXxoI"
+    },
+    {
+      "artist": "Mastodon",
+      "album": "Emperor of Sand",
+      "uri": "spotify:album:1VzmKgEG38fsUBZVe15wuF"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "uri": "spotify:album:2ip3aGH8KWEA8EugbTdsNZ"
+    },
+    {
+      "artist": "Okkervil River",
+      "album": "Black Sheep Boy",
+      "uri": "spotify:album:1XJyLILxz1fdlZ8EqbL5jn"
+    },
+    {
+      "artist": "Ex Machina",
+      "album": "Transhuman",
+      "uri": "spotify:album:5Azd2VDb4j866XW1aSbLkl"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Twin Galaxies",
+      "uri": "spotify:album:5bN8gM7FSwYARJ1gjz30P1"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "album": "Fear and Saturday Night",
+      "uri": "spotify:album:6mf8iFx30NUcwRQ9TB0KO1"
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "album": "2009",
+      "uri": "spotify:album:0JdkkLJFbAoQ2LsA1v1GR6"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "uri": "spotify:album:2ODvWsOgouMbaA5xf0RkJe"
+    },
+    {
+      "artist": "Curren$y",
+      "album": "The Marina",
+      "uri": "spotify:album:4PBzJyNVh1iWyiuOstR74B"
+    },
+    {
+      "artist": "Silver",
+      "album": "Silver",
+      "uri": "spotify:album:3sGENYCDR3UaIfFwWMJWrY"
+    },
+    {
+      "artist": "Tycho",
+      "album": "Awake",
+      "uri": "spotify:album:7HWdGPosPkb9GY5MOgLgSW"
+    },
+    {
+      "artist": "Tory Lanez",
+      "album": "Chixtape 5",
+      "uri": "spotify:album:6vVhekA9LRg0MWIQaxI37f"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Wanted Reggae: From Diggers To Music Lovers",
+      "uri": "spotify:album:3iYQK1cj5kAWF69c3YWaAT"
+    },
+    {
+      "artist": "Danny Brown",
+      "album": "Atrocity Exhibition",
+      "uri": "spotify:album:3e7vtKJ3m1zVh38VGq2g3H"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "uri": "spotify:album:6eZdwrhB97A3EYx9QppGfl"
+    },
+    {
+      "artist": "The Haunted",
+      "album": "rEVOLVEr",
+      "uri": "spotify:album:4i4PTPhqv08GiiEgQPdnZ0"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Indigo",
+      "uri": "spotify:album:7x1QngifW8UsXPzRg5CXVC"
+    },
+    {
+      "artist": "Belmont",
+      "album": "Between You & Me",
+      "uri": "spotify:album:11tEehUBFwkdlkd28NNWLs"
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "uri": "spotify:album:6t7956yu5zYf5A829XRiHC"
+    },
+    {
+      "artist": "SOJA",
+      "album": "Born In Babylon",
+      "uri": "spotify:album:0iWAzOU9mbH3m6b07F90G1"
+    },
+    {
+      "artist": "Belmont",
+      "album": "Vicissitude",
+      "uri": "spotify:album:1c1etEv9ocIrNlgS9wy6ji"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "uri": "spotify:album:1vz94WpXDVYIEGja8cjFNa"
+    },
+    {
+      "artist": "Gojira",
+      "album": "The Way of all Flesh",
+      "uri": "spotify:album:4NDM4HzjJYI27hwvwmKj6s"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Management",
+      "uri": "spotify:album:2jOwQdfSjwtMKbIRPb3FXD"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "album": "Side Pony",
+      "uri": "spotify:album:1pXxKrTopCyALgXX7h5tmX"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "american dream",
+      "uri": "spotify:album:4AF1M7bGCFL3LHCtXUUXw5"
+    },
+    {
+      "artist": "Macklemore",
+      "album": "This Unruly Mess I've Made",
+      "uri": "spotify:album:2kqn09pydzvKvB3xWbAxY4"
+    },
+    {
+      "artist": "The War On Drugs",
+      "album": "Lost In The Dream",
+      "uri": "spotify:album:14xxjLlbGy8ACm4MorBjD5"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "album": "More Than Just a Dream",
+      "uri": "spotify:album:6yhvsasMsZ1ZMuTk8qIHx0"
+    },
+    {
+      "artist": "Neutral Milk Hotel",
+      "album": "In the Aeroplane Over the Sea",
+      "uri": "spotify:album:5COXoP5kj2DWfCDg0vxi4F"
+    },
+    {
+      "artist": "Paul Simon",
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky"
+    },
+    {
+      "artist": "Huncho Jack",
+      "album": "Huncho Jack, Jack Huncho",
+      "uri": "spotify:album:6FED8aeieEnUWwQqAO9zT1"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Luv Is Rage 2",
+      "uri": "spotify:album:0zicd2mBV8HTzSubByj4vP"
+    },
+    {
+      "artist": "Best Coast",
+      "album": "California Nights",
+      "uri": "spotify:album:1JIhBE54vvyvz6yqqKKJ1A"
+    },
+    {
+      "artist": "Cut Copy",
+      "album": "In Ghost Colours",
+      "uri": "spotify:album:6k3dwEFYKsGrhS40jtiAGt"
+    },
+    {
+      "artist": "Bright Eyes",
+      "album": "I'm Wide Awake, It's Morning",
+      "uri": "spotify:album:5msfCyqu8fJYqDDV6OrXTg"
+    },
+    {
+      "artist": "Wild Nothing",
+      "album": "Life of Pause",
+      "uri": "spotify:album:1Yv0o7NrRKRnVQ5se18E9z"
+    },
+    {
+      "artist": "Wolf Parade",
+      "album": "Cry Cry Cry",
+      "uri": "spotify:album:1v6kERVjlCD906B3mmuKkx"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "album": "The Earth Is Not a Cold Dead Place",
+      "uri": "spotify:album:4ENmFqXRtBpigsdIhSuNJL"
+    },
+    {
+      "artist": "Okkervil River",
+      "album": "The Stand Ins",
+      "uri": "spotify:album:4iyJdf6kUi1QrnluWY0GfQ"
+    },
+    {
+      "artist": "The Speed of Sound in Seawater",
+      "album": "First Contact",
+      "uri": "spotify:album:6SD3eYj9POEwgaPsF6dHcA"
+    },
+    {
+      "artist": "Curren$y",
+      "album": "Fetti",
+      "uri": "spotify:album:3JgtFZroTUGoklTtb2xOne"
+    },
+    {
+      "artist": "Belmont",
+      "album": "Belmont",
+      "uri": "spotify:album:0CQ3hyceExjbDn26Q8AGDW"
+    },
+    {
+      "artist": "The Holdup",
+      "album": "Still Gold",
+      "uri": "spotify:album:7aOD1D99FfhLyCkoiKXsm4"
+    },
+    {
+      "artist": "Beach House",
+      "album": "Bloom",
+      "uri": "spotify:album:5k565ga9B9EJqLyCatmrt0"
+    },
+    {
+      "artist": "fingerspit",
+      "album": "The Red Strings Club Original Soundtrack",
+      "uri": "spotify:album:3PiMG7hNXg92FIfbyjWg8p"
+    },
+    {
+      "artist": "Tokyo Police Club",
+      "album": "Forcefield",
+      "uri": "spotify:album:2JK70wHaFHeqSkeHTPYHCi"
+    },
+    {
+      "artist": "Godspeed You! Black Emperor",
+      "album": "F♯ A♯ ∞",
+      "uri": "spotify:album:7sh2Z8jj1iySpHRAnGd9w5"
+    },
+    {
+      "artist": "Delta Sleep",
+      "album": "Ghost City",
+      "uri": "spotify:album:63PgGSb6ZkwPVfMZVOhObO"
+    },
+    {
+      "artist": "The Lumineers",
+      "album": "Cleopatra",
+      "uri": "spotify:album:2zbTrm2pIAErzFSopinkbN"
+    },
+    {
+      "artist": "Okkervil River",
+      "album": "The Stage Names",
+      "uri": "spotify:album:2fDnPPXwyHsKKqsvrnCW7P"
+    },
+    {
+      "artist": "Andrei Krylov",
+      "album": "Renaissance Guitar and Lute in German, French, Italian, English, Irish, Scottish, Gothic Music of Ancient Medieval Castles",
+      "uri": "spotify:album:6xjkqw9L2A6hstjk6uzkOM"
+    },
+    {
+      "artist": "fingerspit",
+      "album": "The Red Strings Club Original Soundtrack",
+      "uri": "spotify:album:0WcpjFcx3GSZWnIzrxhak6"
+    },
+    {
+      "artist": "Video Age",
+      "album": "Pop Therapy",
+      "uri": "spotify:album:57ZFBT6OuaSAwIohFLud1F"
+    },
+    {
+      "artist": "Senses Fail",
+      "album": "Let It Enfold You",
+      "uri": "spotify:album:6Blw6RRPD0RAjpYsa0CMFd"
+    },
+    {
+      "artist": "The Shins",
+      "album": "Port Of Morrow",
+      "uri": "spotify:album:4ZTcGoOrNro2aCAStXEjZi"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "uri": "spotify:album:0G1ffjfFuTUTVjDrVdLimH"
+    }
+  ],
+  "shows": [
+    {
+      "name": "CONFLICTED",
+      "publisher": "Message Heard",
+      "uri": "spotify:show:1pgRlNKUjQksdy90usLyM5"
+    },
+    {
+      "name": "Chapo Trap House",
+      "publisher": "Chapo Trap House",
+      "uri": "spotify:show:1ZfEmftOCw3AzhpyCIfFwF"
+    },
+    {
+      "name": "Coffee Break German",
+      "publisher": "Radio Lingua Network",
+      "uri": "spotify:show:3QiX0ZkjILyGWmpemackWB"
+    },
+    {
+      "name": "Dan Carlin's Hardcore History",
+      "publisher": "Dan Carlin",
+      "uri": "spotify:show:72qiPaoDRf8HkGKEChvG5q"
+    },
+    {
+      "name": "Decoder with Nilay Patel",
+      "publisher": "The Verge",
+      "uri": "spotify:show:47jQcyRcrM1EoV0sU39N9F"
+    },
+    {
+      "name": "GameBookClub",
+      "publisher": "GameBookClub",
+      "uri": "spotify:show:5LORCRIT6495eO9FKOE8q6"
+    },
+    {
+      "name": "Longform",
+      "publisher": "Longform",
+      "uri": "spotify:show:7B2Lhsj3Eb2MEYDD7lAkXp"
+    },
+    {
+      "name": "Revisionist History",
+      "publisher": "Pushkin Industries",
+      "uri": "spotify:show:2LOJaYKijiwNefCvzczyib"
+    },
+    {
+      "name": "Revolutions",
+      "publisher": "Mike Duncan",
+      "uri": "spotify:show:05lvdf9T77KE6y4gyMGEsD"
+    },
+    {
+      "name": "Stuff You Missed in History Class",
+      "publisher": "iHeartRadio",
+      "uri": "spotify:show:4Zkj8TTa7XAZYI6aFetlec"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "A Perfect Circle",
+      "uri": "spotify:artist:4DFhHyjvGYa9wxdHUjtDkc"
+    },
+    {
+      "name": "AJJ",
+      "uri": "spotify:artist:4IDpDJIDfK96HMLD4Tphyl"
+    },
+    {
+      "name": "Albert Ryan",
+      "uri": "spotify:artist:2FeMZzuurwiV0FPPFACzEE"
+    },
+    {
+      "name": "Algernon Cadwallader",
+      "uri": "spotify:artist:1BfYXNfaB5HBwHn4gxnEQE"
+    },
+    {
+      "name": "Alvvays",
+      "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+    },
+    {
+      "name": "Arcade Fire",
+      "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+    },
+    {
+      "name": "Architecture In Helsinki",
+      "uri": "spotify:artist:60eT7q88iLWKnuSXed1AGr"
+    },
+    {
+      "name": "Arctic Monkeys",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "name": "At The Drive In",
+      "uri": "spotify:artist:5E2rtn57BM2WPjwak4kGd5"
+    },
+    {
+      "name": "Autumn In June",
+      "uri": "spotify:artist:3rzC0I7iHmQVohZbjlvP3z"
+    },
+    {
+      "name": "BAYNK",
+      "uri": "spotify:artist:28yVvEvA2lT3K5RNIhV1Dj"
+    },
+    {
+      "name": "Bangs",
+      "uri": "spotify:artist:1uggMMP7Futv568h9oKCPq"
+    },
+    {
+      "name": "Beach Fossils",
+      "uri": "spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC"
+    },
+    {
+      "name": "Beach House",
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+    },
+    {
+      "name": "Belmont",
+      "uri": "spotify:artist:6hxiY0CFXTibGUtp8TdCxp"
+    },
+    {
+      "name": "Best Coast",
+      "uri": "spotify:artist:5YkBrE0wF8cAlq3GCOw5Eu"
+    },
+    {
+      "name": "Blind Pilot",
+      "uri": "spotify:artist:6qiGjRyN7TJ1GA2nXF68Hi"
+    },
+    {
+      "name": "Blood Orange",
+      "uri": "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
+    },
+    {
+      "name": "Blue Öyster Cult",
+      "uri": "spotify:artist:00tVTdpEhQQw1bqdu8RCx2"
+    },
+    {
+      "name": "BoomBox",
+      "uri": "spotify:artist:3UBLa2huRORV0HmGQq3fGs"
+    },
+    {
+      "name": "Bright Eyes",
+      "uri": "spotify:artist:5o206eFLx38glA2bb4zqIU"
+    },
+    {
+      "name": "Bud Bronson & the Good Timers",
+      "uri": "spotify:artist:3NzzzHAMBcKcGh8KlouQMr"
+    },
+    {
+      "name": "Camera Obscura",
+      "uri": "spotify:artist:5gInJ5P5gQnOKPM3SUEVFt"
+    },
+    {
+      "name": "Can't Swim",
+      "uri": "spotify:artist:62elZbH5Iop8UPcChp7OrU"
+    },
+    {
+      "name": "Chon",
+      "uri": "spotify:artist:2JFljHPanIjYy2QqfNYvC0"
+    },
+    {
+      "name": "Clear Soul Forces",
+      "uri": "spotify:artist:556vpAit0VPDDqxdIUTNsb"
+    },
+    {
+      "name": "Cloud Nothings",
+      "uri": "spotify:artist:6rnbB5fuUuCSsspvFsxIpT"
+    },
+    {
+      "name": "Cool Calm Pete",
+      "uri": "spotify:artist:6g9zudwUPL5IwY8sbEzN9C"
+    },
+    {
+      "name": "Crumb",
+      "uri": "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    },
+    {
+      "name": "Crying",
+      "uri": "spotify:artist:4RoIQHT4yJcA0ENhs8WLd4"
+    },
+    {
+      "name": "Cults",
+      "uri": "spotify:artist:3Oim8XBPbznAa8Jj8QzNc8"
+    },
+    {
+      "name": "Current Joys",
+      "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
+    },
+    {
+      "name": "Cut Copy",
+      "uri": "spotify:artist:4EENT7N7rCBwrddM3s0vFS"
+    },
+    {
+      "name": "D Smoke",
+      "uri": "spotify:artist:23rK0hajv5ix2yPM4IIgOo"
+    },
+    {
+      "name": "DERYL DODD",
+      "uri": "spotify:artist:2gnw22IQzAxBO1nZWLv67M"
+    },
+    {
+      "name": "Dads",
+      "uri": "spotify:artist:2OUGTXNFUe4WwC4CWpvIal"
+    },
+    {
+      "name": "Darkest Hour",
+      "uri": "spotify:artist:4dso1lISV1Atdo3O6qbhqq"
+    },
+    {
+      "name": "Dawes",
+      "uri": "spotify:artist:0CDUUM6KNRvgBFYIbWxJwV"
+    },
+    {
+      "name": "Dayglow",
+      "uri": "spotify:artist:6eJa3zG1QZLRB3xgRuyxbm"
+    },
+    {
+      "name": "De Lux",
+      "uri": "spotify:artist:6go0iwCisHtnyywarV5OEZ"
+    },
+    {
+      "name": "Deep Sea Diver",
+      "uri": "spotify:artist:6CD0HbcaKmuVB3NHJJgSdH"
+    },
+    {
+      "name": "Delta Sleep",
+      "uri": "spotify:artist:05MlomiA9La0OiNIAGqECk"
+    },
+    {
+      "name": "Dikembe",
+      "uri": "spotify:artist:4VZU5Lb3hP2j1bOpZ2JdKi"
+    },
+    {
+      "name": "Dynatron",
+      "uri": "spotify:artist:0SkwL0prvhD2CWyqj0vlF6"
+    },
+    {
+      "name": "El Huervo",
+      "uri": "spotify:artist:2gG1LfmQPkHZNptgVpYlpr"
+    },
+    {
+      "name": "Enjoy",
+      "uri": "spotify:artist:46OZe7BgkZhisNbEMW4oqq"
+    },
+    {
+      "name": "Everyone Everywhere",
+      "uri": "spotify:artist:540R9ampm8wv8ddRgCuzmu"
+    },
+    {
+      "name": "Family and Friends",
+      "uri": "spotify:artist:2AmW5LU0vqfHoN2qvghRFe"
+    },
+    {
+      "name": "Fat Tony",
+      "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+    },
+    {
+      "name": "Fiddlehead",
+      "uri": "spotify:artist:0q6u5HyVK4zwGuzEtqjHqa"
+    },
+    {
+      "name": "Fitz and The Tantrums",
+      "uri": "spotify:artist:4AcHt3JxKy59IX7JNNlZn4"
+    },
+    {
+      "name": "Flatsound",
+      "uri": "spotify:artist:4ze1UwMqtSlhTgnyk8LrW3"
+    },
+    {
+      "name": "Free Throw",
+      "uri": "spotify:artist:49b68DLRK5eCbtJf7Xx4Cc"
+    },
+    {
+      "name": "From Indian Lakes",
+      "uri": "spotify:artist:3YvQkjWJ5ykJVUNP7YbTy9"
+    },
+    {
+      "name": "Futurebirds",
+      "uri": "spotify:artist:4Ait1vX2ZaWPrkua8Z664O"
+    },
+    {
+      "name": "Ginger Root",
+      "uri": "spotify:artist:4UAW69682T7N0wrABUhqx0"
+    },
+    {
+      "name": "Glocca Morra",
+      "uri": "spotify:artist:5XU0u7HIexXCAh4CcoqXCA"
+    },
+    {
+      "name": "Goodbye Aurora",
+      "uri": "spotify:artist:7BmRI9OfDe7IrrkUvBfwTH"
+    },
+    {
+      "name": "Grandaddy",
+      "uri": "spotify:artist:3W4xM5XYtUp4ifYYPVKVdk"
+    },
+    {
+      "name": "Hamza",
+      "uri": "spotify:artist:5gs4Sm2WQUkcGeikMcVHbh"
+    },
+    {
+      "name": "Haroula Rose",
+      "uri": "spotify:artist:7AhCTepWX7n4dQFh3Ro3YG"
+    },
+    {
+      "name": "Hippo Campus",
+      "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+    },
+    {
+      "name": "Hiroshi Yoshimura",
+      "uri": "spotify:artist:1DGpHnPOpMYY780hcQHmPB"
+    },
+    {
+      "name": "Hotel Mira",
+      "uri": "spotify:artist:7hd3XnjENIMw13Dmn8hEYw"
+    },
+    {
+      "name": "Howard Jones",
+      "uri": "spotify:artist:6loBF9iQdE11WSX29fNKqY"
+    },
+    {
+      "name": "Ice Cream Boy",
+      "uri": "spotify:artist:4pA1dCMotuhvL0FEK0wVZX"
+    },
+    {
+      "name": "Iration",
+      "uri": "spotify:artist:0q9lPhJHW5R9J7RXIJRbTk"
+    },
+    {
+      "name": "J. Cole",
+      "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    {
+      "name": "JOSEPH",
+      "uri": "spotify:artist:5Wfvw7rDz7HA6gE2z6QhqO"
+    },
+    {
+      "name": "Japanese Breakfast",
+      "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    },
+    {
+      "name": "Jason Isbell",
+      "uri": "spotify:artist:3Q8wgwyVVv0z4UEh1HB0KY"
+    },
+    {
+      "name": "Jeff Rosenstock",
+      "uri": "spotify:artist:0wNZvrIMNUCs24G0wFg2D6"
+    },
+    {
+      "name": "Joyce Manor",
+      "uri": "spotify:artist:7qbvNcfTfckhCNM8NiR8nN"
+    },
+    {
+      "name": "Juicy J",
+      "uri": "spotify:artist:5gCRApTajqwbnHHPbr2Fpi"
+    },
+    {
+      "name": "KEY!",
+      "uri": "spotify:artist:2tMOCIpxj6jwM9e6pmwGiP"
+    },
+    {
+      "name": "Kendrick Lamar",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "name": "Khruangbin",
+      "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+    },
+    {
+      "name": "Kidburn",
+      "uri": "spotify:artist:26ULKfy6zRYeBbsryBZiFk"
+    },
+    {
+      "name": "Kinokoteikoku",
+      "uri": "spotify:artist:61H9d7hbIfFNxJJQmIL9AJ"
+    },
+    {
+      "name": "Knuckle Puck",
+      "uri": "spotify:artist:5ABfpj7Z00wfPiv2uW4MFm"
+    },
+    {
+      "name": "Kowloon",
+      "uri": "spotify:artist:4VQqGf7U3RUspgTsprypWE"
+    },
+    {
+      "name": "Kygo",
+      "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+    },
+    {
+      "name": "LNDN DRGS",
+      "uri": "spotify:artist:65d2Cw70rLuVwEZwQpHtFW"
+    },
+    {
+      "name": "La Dispute",
+      "uri": "spotify:artist:7lQKE6HaKQcCsgLRMhsh5W"
+    },
+    {
+      "name": "Lamb of God",
+      "uri": "spotify:artist:3JFsVIxOn7STeilPICkkB2"
+    },
+    {
+      "name": "Lifelike",
+      "uri": "spotify:artist:3sa5sqxJqYjDZhGxmo4Ko5"
+    },
+    {
+      "name": "Low Hum",
+      "uri": "spotify:artist:7AfmYGPRYiNkwKfV8LrqLd"
+    },
+    {
+      "name": "Marietta",
+      "uri": "spotify:artist:6vCs4rj3rvYAX3l7dEiPq9"
+    },
+    {
+      "name": "Maritime",
+      "uri": "spotify:artist:79xu36jzq3a5nU8uubNZr9"
+    },
+    {
+      "name": "Microwave",
+      "uri": "spotify:artist:7ptm7G8z8VVvwBnDq8fAmD"
+    },
+    {
+      "name": "Minus the Bear",
+      "uri": "spotify:artist:0YQBN02bmZvwGNrrWsg2sT"
+    },
+    {
+      "name": "Mitch Murder",
+      "uri": "spotify:artist:7eOzCiTklgHxfpf6Mb3D2e"
+    },
+    {
+      "name": "Modern Baseball",
+      "uri": "spotify:artist:1HxXNvsraqrsgfmju1yKk8"
+    },
+    {
+      "name": "Murder By Death",
+      "uri": "spotify:artist:3yrQJxTTj7xS2deLcXiEM3"
+    },
+    {
+      "name": "Nick Cave & The Bad Seeds",
+      "uri": "spotify:artist:4UXJsSlnKd7ltsrHebV79Q"
+    },
+    {
+      "name": "No Buses",
+      "uri": "spotify:artist:5Tj6sv1bYiB4PqvvXcTSr6"
+    },
+    {
+      "name": "No Vacation",
+      "uri": "spotify:artist:32zeX1IoVKAGWMyy1isKUq"
+    },
+    {
+      "name": "NxWorries",
+      "uri": "spotify:artist:6PEMFpe3PTOksdV4ZXUpbE"
+    },
+    {
+      "name": "OGRE YOU ASSHOLE",
+      "uri": "spotify:artist:0X9vdekJ6sIKcUvwIgVsjW"
+    },
+    {
+      "name": "Odessa",
+      "uri": "spotify:artist:7xtlNrmdLZS2sqIkgWewi1"
+    },
+    {
+      "name": "Okkervil River",
+      "uri": "spotify:artist:5E7zSu46SqTmgKqsc0tFkY"
+    },
+    {
+      "name": "Panama",
+      "uri": "spotify:artist:3W9UldYu0xJcaOAw2SUTDI"
+    },
+    {
+      "name": "Part Time",
+      "uri": "spotify:artist:5M0HAqHXyOh3q7WQnvce8o"
+    },
+    {
+      "name": "PatternShift",
+      "uri": "spotify:artist:6MNFOvQOGj0BYmHJa6tVIV"
+    },
+    {
+      "name": "Phantogram",
+      "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+    },
+    {
+      "name": "Pity Sex",
+      "uri": "spotify:artist:7zYojeiCfuseHGA4IJ8qSk"
+    },
+    {
+      "name": "Pool Holograph",
+      "uri": "spotify:artist:41GVae1rirGG3nheJs7Bev"
+    },
+    {
+      "name": "Really From",
+      "uri": "spotify:artist:1qTmg9Vib3GHabe1ygHW9y"
+    },
+    {
+      "name": "Rexx Life Raj",
+      "uri": "spotify:artist:5rDXcEIODl8TgGTgrntnjX"
+    },
+    {
+      "name": "Rilo Kiley",
+      "uri": "spotify:artist:2cevwbv7ISD92VMNLYLHZA"
+    },
+    {
+      "name": "Rings of Saturn",
+      "uri": "spotify:artist:67Zm35qXdPzYfl1c3M0toJ"
+    },
+    {
+      "name": "Run River North",
+      "uri": "spotify:artist:0INDB6Snts5NDbzh8jC3lk"
+    },
+    {
+      "name": "Ryan Bingham",
+      "uri": "spotify:artist:31z9f9AyPawiq0qlBO1M3i"
+    },
+    {
+      "name": "Sam Be Yourself",
+      "uri": "spotify:artist:74Q5jFTGhbAoP8awjjoAEA"
+    },
+    {
+      "name": "Sam Cooke",
+      "uri": "spotify:artist:6hnWRPzGGKiapVX1UCdEAC"
+    },
+    {
+      "name": "Sexy Girls",
+      "uri": "spotify:artist:2Mjqb4HQpRBuDjn84nOYS9"
+    },
+    {
+      "name": "Shadows Fall",
+      "uri": "spotify:artist:1HaiS1sFo8qkc6tF5Mw1M0"
+    },
+    {
+      "name": "Silver",
+      "uri": "spotify:artist:7oeuJSyVZTCkm3BurLz8cG"
+    },
+    {
+      "name": "Sleepy Dog",
+      "uri": "spotify:artist:4NvAuuNFpeW6emwRRLYd3I"
+    },
+    {
+      "name": "Small Black",
+      "uri": "spotify:artist:1J6xqDysFw6YiQ0vMvIKds"
+    },
+    {
+      "name": "Speaker Knockerz",
+      "uri": "spotify:artist:3KuLo66B73btyQpdXlkqFx"
+    },
+    {
+      "name": "Spirit Ghost",
+      "uri": "spotify:artist:4f7XztJfBDaGyL2sib68es"
+    },
+    {
+      "name": "Surfer Blood",
+      "uri": "spotify:artist:0IlQRCafsMrd0QkTRBU6n0"
+    },
+    {
+      "name": "Surfing",
+      "uri": "spotify:artist:2vTrzq2s1adq6MrQ5mdQNj"
+    },
+    {
+      "name": "TEEN BLUSH",
+      "uri": "spotify:artist:1XW51qY5zDq92npZ5fHNRl"
+    },
+    {
+      "name": "TOPS",
+      "uri": "spotify:artist:2SdK1QDmZIP2hk94rSaLl9"
+    },
+    {
+      "name": "TV Girl",
+      "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+    },
+    {
+      "name": "TV On The Radio",
+      "uri": "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR"
+    },
+    {
+      "name": "Taylor McFerrin",
+      "uri": "spotify:artist:0yLmsf6RBPYqm6hvFJCPg6"
+    },
+    {
+      "name": "Teen Daze",
+      "uri": "spotify:artist:2GE6MAdyGzeXpY9TwIYd3l"
+    },
+    {
+      "name": "Tennis",
+      "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
+    },
+    {
+      "name": "Thao & The Get Down Stay Down",
+      "uri": "spotify:artist:2dn0CGCWvtrwZ66bOeLNb2"
+    },
+    {
+      "name": "The 1-800",
+      "uri": "spotify:artist:74b7Xs9OtoSeWOp0sOKuwH"
+    },
+    {
+      "name": "The Bad Dreamers",
+      "uri": "spotify:artist:71Char2jLgXkG97fBjqNNY"
+    },
+    {
+      "name": "The Civil Wars",
+      "uri": "spotify:artist:6J7rw7NELJUCThPbAfyLIE"
+    },
+    {
+      "name": "The Clientele",
+      "uri": "spotify:artist:3xZBpeXHkSjTKQIR1OeKN0"
+    },
+    {
+      "name": "The Contortionist",
+      "uri": "spotify:artist:7nCgNmfYJcsVy3vOOzExYS"
+    },
+    {
+      "name": "The Dear Hunter",
+      "uri": "spotify:artist:51lE580QM13Anmb3mK2j1e"
+    },
+    {
+      "name": "The Decemberists",
+      "uri": "spotify:artist:7ITd48RbLVpUfheE7B86o2"
+    },
+    {
+      "name": "The Front Bottoms",
+      "uri": "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    },
+    {
+      "name": "The Japanese House",
+      "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
+    },
+    {
+      "name": "The Radio Dept.",
+      "uri": "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+    },
+    {
+      "name": "The Speed of Sound in Seawater",
+      "uri": "spotify:artist:0QS4WiN67WO4pQrzo25vmH"
+    },
+    {
+      "name": "The Veils",
+      "uri": "spotify:artist:1MDw0zSUU0XtI9D5JgEZH5"
+    },
+    {
+      "name": "The War On Drugs",
+      "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+    },
+    {
+      "name": "The Weeknd",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+      "uri": "spotify:artist:5bCNJ1ICzdnzK0yoCIP2Ip"
+    },
+    {
+      "name": "Thouxanbanfauni",
+      "uri": "spotify:artist:1O8X4zxUh4AdAPFttOTlLr"
+    },
+    {
+      "name": "Tigers Jaw",
+      "uri": "spotify:artist:0tLaqkKW7K6tc3QF9SM0M8"
+    },
+    {
+      "name": "Tokyo Police Club",
+      "uri": "spotify:artist:3wyfo3svXNWnszGAEVey11"
+    },
+    {
+      "name": "Toro y Moi",
+      "uri": "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+    },
+    {
+      "name": "Troyman",
+      "uri": "spotify:artist:0hfCvrogjeBd9cTtAYTyCs"
+    },
+    {
+      "name": "Turnover",
+      "uri": "spotify:artist:0gLjJuczGWhqKVMmVpIT52"
+    },
+    {
+      "name": "Turnpike Troubadours",
+      "uri": "spotify:artist:1YSA4byX5AL1zoTsSTlB03"
+    },
+    {
+      "name": "Twin Peaks",
+      "uri": "spotify:artist:1xD85sp0kecIVuMwUHShxs"
+    },
+    {
+      "name": "Ugly God",
+      "uri": "spotify:artist:3Fdm9TFJQCLmC3AWMuGExi"
+    },
+    {
+      "name": "Unknown Mortal Orchestra",
+      "uri": "spotify:artist:1LeVJ5GPeYDOVUjxx1y7Rp"
+    },
+    {
+      "name": "VHS Glitch",
+      "uri": "spotify:artist:7s5ohke1zMktuLdZyR2Clp"
+    },
+    {
+      "name": "Vetiver",
+      "uri": "spotify:artist:7ACSlU8kTcQIbvpwLWze8E"
+    },
+    {
+      "name": "Video Age",
+      "uri": "spotify:artist:4aTQ05Ddh21E2CJFSZy7ZW"
+    },
+    {
+      "name": "Voxtrot",
+      "uri": "spotify:artist:7b697TI9p2abLzSo3eJTKW"
+    },
+    {
+      "name": "Warm Brew",
+      "uri": "spotify:artist:51YACffgZvQwjs8J4ZVDQF"
+    },
+    {
+      "name": "Warpaint",
+      "uri": "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO"
+    },
+    {
+      "name": "Wayfarer",
+      "uri": "spotify:artist:4HcBIH7pVbrRRwHnEqxpka"
+    },
+    {
+      "name": "Wesley Bright and the Honeytones",
+      "uri": "spotify:artist:6MW5yx2dPhGcNizd0Y4L9l"
+    },
+    {
+      "name": "Wet Baes",
+      "uri": "spotify:artist:6mYovveNfg4PF4HnT8Lner"
+    },
+    {
+      "name": "White Reaper",
+      "uri": "spotify:artist:75klPfIVnyYcyEGaicRUSF"
+    },
+    {
+      "name": "XENNON",
+      "uri": "spotify:artist:5rzJf5cQnYXZx69aRQTato"
+    },
+    {
+      "name": "Yeah Yeah Yeahs",
+      "uri": "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+    },
+    {
+      "name": "Yellow Days",
+      "uri": "spotify:artist:3dv4Q4q3LWOnbLJnC6GgTY"
+    },
+    {
+      "name": "Young Tender",
+      "uri": "spotify:artist:19g2jApswUTCNqXFxx2lAx"
+    },
+    {
+      "name": "Yung Gravy",
+      "uri": "spotify:artist:2YOYua8FpudSEiB9s88IgQ"
+    },
+    {
+      "name": "empire! empire! (i was a lonely estate)",
+      "uri": "spotify:artist:3IaqcRr2teHDEqhRE5emu9"
+    },
+    {
+      "name": "fingerspit",
+      "uri": "spotify:artist:0bKtV7eOLdtkULTDUeqjny"
+    },
+    {
+      "name": "mitsume",
+      "uri": "spotify:artist:59tUUyuaTFMty5kJE9Ojrq"
+    },
+    {
+      "name": "shinigami",
+      "uri": "spotify:artist:0ntNwPE7MYnKrTh59tU2BA"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
