@@ -1,21 +1,13 @@
----
-title: "Cody's Spotify Stats 2021"
-output:
-  html_document:
-    keep_md: true
-    toc: true
----
+Cody’s Spotify Stats 2021
+================
 
 # Confessions of a Song Repeater
 
-
-
-
+  - My spotify song statistics from the last year
 
 ### Most Frequently Played Songs
 
-
-```r
+``` r
 ## in SQL
 dbGetQuery(con, "SELECT artistName, trackName, COUNT(trackName) as number
            FROM StreamingHistory
@@ -24,28 +16,24 @@ dbGetQuery(con, "SELECT artistName, trackName, COUNT(trackName) as number
            LIMIT 10")
 ```
 
-
-```
-## # A tibble: 10 x 3
-## # Groups:   artistName, trackName [10]
-##    artistName   trackName                   n
-##    <chr>        <chr>                   <int>
-##  1 Sea Power    Want To Be Free            92
-##  2 Sea Power    Red Rock Riviera           81
-##  3 TV Girl      Lovers Rock                80
-##  4 Sea Power    The South Sound            79
-##  5 No Vacation  Yam Yam                    78
-##  6 No Vacation  Days                       77
-##  7 No Vacation  Estrangers                 75
-##  8 Phantogram   Fall In Love               75
-##  9 Dayglow      Can I Call You Tonight?    74
-## 10 Current Joys Neon Hell - Live           70
-```
+    ## # A tibble: 10 x 3
+    ## # Groups:   artistName, trackName [10]
+    ##    artistName   trackName                   n
+    ##    <chr>        <chr>                   <int>
+    ##  1 Sea Power    Want To Be Free            92
+    ##  2 Sea Power    Red Rock Riviera           81
+    ##  3 TV Girl      Lovers Rock                80
+    ##  4 Sea Power    The South Sound            79
+    ##  5 No Vacation  Yam Yam                    78
+    ##  6 No Vacation  Days                       77
+    ##  7 No Vacation  Estrangers                 75
+    ##  8 Phantogram   Fall In Love               75
+    ##  9 Dayglow      Can I Call You Tonight?    74
+    ## 10 Current Joys Neon Hell - Live           70
 
 ### Most Frequently Played Artists
 
-
-```r
+``` r
 ## in SQL
 dbGetQuery(con, 'SELECT artistName, COUNT(artistName) as count
             FROM StreamingHistory
@@ -54,49 +42,45 @@ dbGetQuery(con, 'SELECT artistName, COUNT(artistName) as count
             LIMIT 10')
 ```
 
+    ## # A tibble: 10 x 2
+    ## # Groups:   artistName [10]
+    ##    artistName          n
+    ##    <chr>           <int>
+    ##  1 No Vacation      1099
+    ##  2 Current Joys      942
+    ##  3 Modern Baseball   674
+    ##  4 fingerspit        657
+    ##  5 MadeinTYO         608
+    ##  6 Dayglow           591
+    ##  7 Sea Power         585
+    ##  8 Delta Sleep       478
+    ##  9 Wild Nothing      348
+    ## 10 Kowloon           327
 
-```
-## # A tibble: 10 x 2
-## # Groups:   artistName [10]
-##    artistName          n
-##    <chr>           <int>
-##  1 No Vacation      1099
-##  2 Current Joys      942
-##  3 Modern Baseball   674
-##  4 fingerspit        657
-##  5 MadeinTYO         608
-##  6 Dayglow           591
-##  7 Sea Power         585
-##  8 Delta Sleep       478
-##  9 Wild Nothing      348
-## 10 Kowloon           327
-```
+### Most Songs Played in One Day
 
-### Most Songs Played in One Day   
+  - This would include skipping a song after, say, 3-10 seconds
+      - Could filter out results that are less than 30 seconds to 1
+        minute
 
-* This would include skipping a song after, say, 3-10 seconds 
-    * Could filter out results that are less than 30 seconds to 1 minute
+<!-- end list -->
 
+    ## # A tibble: 10 x 2
+    ## # Groups:   date [10]
+    ##    date           n
+    ##    <chr>      <int>
+    ##  1 2021-01-07   313
+    ##  2 2021-02-07   245
+    ##  3 2021-05-31   227
+    ##  4 2021-04-13   205
+    ##  5 2021-03-31   187
+    ##  6 2021-04-01   177
+    ##  7 2020-10-04   160
+    ##  8 2021-04-29   157
+    ##  9 2021-05-11   157
+    ## 10 2021-07-08   155
 
-```
-## # A tibble: 10 x 2
-## # Groups:   date [10]
-##    date           n
-##    <chr>      <int>
-##  1 2021-01-07   313
-##  2 2021-02-07   245
-##  3 2021-05-31   227
-##  4 2021-04-13   205
-##  5 2021-03-31   187
-##  6 2021-04-01   177
-##  7 2020-10-04   160
-##  8 2021-04-29   157
-##  9 2021-05-11   157
-## 10 2021-07-08   155
-```
-
-
-```r
+``` r
 ## this is SQLITE syntax, other SQL might use "LEFT(endTime, 10)"
 # temporarily create a column named date, use that to group by...COUNT doesn't work on aliases I guess
 dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count, SUM(msPlayed) as songTime
@@ -106,12 +90,13 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
                  LIMIT 10')
 ```
 
-### Of top 10 listened to artists, over what time period did I listen to them the most? 
+### Of top 10 listened to artists, over what time period did I listen to them the most?
 
-* Counts of that artist per endDate through time
+  - Counts of that artist per endDate through time
 
+<!-- end list -->
 
-```r
+``` r
 stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
     # this is a shortcut subquery, technically
     filter(artistName %in% res_freq_artists$artistName) %>% 
@@ -121,25 +106,23 @@ stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>%
     arrange(desc(n))
 ```
 
-```
-## # A tibble: 312 x 3
-## # Groups:   date, artistName [312]
-##    date       artistName          n
-##    <chr>      <chr>           <int>
-##  1 2021-01-07 Kowloon           216
-##  2 2021-04-08 MadeinTYO         145
-##  3 2021-01-24 No Vacation       142
-##  4 2021-05-06 Modern Baseball   139
-##  5 2021-01-28 No Vacation       120
-##  6 2021-01-26 No Vacation        98
-##  7 2021-08-26 No Vacation        91
-##  8 2021-09-23 Dayglow            90
-##  9 2020-12-10 Current Joys       88
-## 10 2021-01-27 No Vacation        83
-## # ... with 302 more rows
-```
+    ## # A tibble: 312 x 3
+    ## # Groups:   date, artistName [312]
+    ##    date       artistName          n
+    ##    <chr>      <chr>           <int>
+    ##  1 2021-01-07 Kowloon           216
+    ##  2 2021-04-08 MadeinTYO         145
+    ##  3 2021-01-24 No Vacation       142
+    ##  4 2021-05-06 Modern Baseball   139
+    ##  5 2021-01-28 No Vacation       120
+    ##  6 2021-01-26 No Vacation        98
+    ##  7 2021-08-26 No Vacation        91
+    ##  8 2021-09-23 Dayglow            90
+    ##  9 2020-12-10 Current Joys       88
+    ## 10 2021-01-27 No Vacation        83
+    ## # ... with 302 more rows
 
-```r
+``` r
 ggplotly(
     stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
     # this is a shortcut subquery, technically
@@ -158,16 +141,13 @@ ggplotly(
 )
 ```
 
-```
-## Warning: `group_by_()` was deprecated in dplyr 0.7.0.
-## Please use `group_by()` instead.
-## See vignette('programming') for more help
-```
+    ## Warning: `group_by_()` was deprecated in dplyr 0.7.0.
+    ## Please use `group_by()` instead.
+    ## See vignette('programming') for more help
 
-<!--html_preserve--><div id="htmlwidget-acf46c6cd0c536419625" style="width:672px;height:480px;" class="plotly html-widget"></div>
-<script type="application/json" data-for="htmlwidget-acf46c6cd0c536419625">{"x":{"data":[{"x":[18586,18605,18606,18607,18609,18612,18613,18615,18616,18617,18642,18643,18645,18646,18647,18650,18652,18653,18658,18684,18730,18734,18735,18736,18737,18738,18768,18769,18773,18824,18825,18826,18829,18830,18840],"y":[1,46,76,39,59,1,27,41,16,19,24,29,41,13,9,58,1,1,11,2,2,48,43,28,13,1,11,4,3,9,22,10,3,10,12],"text":["as.Date(date): 2020-11-20<br />n:   1<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-09<br />n:  46<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-10<br />n:  76<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-11<br />n:  39<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-13<br />n:  59<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-16<br />n:   1<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-17<br />n:  27<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-19<br />n:  41<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-20<br />n:  16<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2020-12-21<br />n:  19<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-15<br />n:  24<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-16<br />n:  29<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-18<br />n:  41<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-19<br />n:  13<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-20<br />n:   9<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-23<br />n:  58<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-25<br />n:   1<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-26<br />n:   1<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-01-31<br />n:  11<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-02-26<br />n:   2<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-04-13<br />n:   2<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-04-17<br />n:  48<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-04-18<br />n:  43<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-04-19<br />n:  28<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-04-20<br />n:  13<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-04-21<br />n:   1<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-05-21<br />n:  11<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-05-22<br />n:   4<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-05-26<br />n:   3<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-07-16<br />n:   9<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-07-17<br />n:  22<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-07-18<br />n:  10<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-07-21<br />n:   3<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-07-22<br />n:  10<br />artistName: Current Joys<br />artistName: Current Joys","as.Date(date): 2021-08-01<br />n:  12<br />artistName: Current Joys<br />artistName: Current Joys"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(248,118,109,1)","dash":"solid"},"hoveron":"points","name":"Current Joys","legendgroup":"Current Joys","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(248,118,109,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(248,118,109,1)"}},"frame":null},{"x":[18590,18591,18683,18730,18734,18771,18799,18800,18801,18802,18803,18807,18808,18812,18820,18829,18840,18892,18893,18894,18895,18896,18897,18898,18900,18901],"y":[2,6,1,4,1,17,68,50,33,4,5,1,1,3,17,1,1,60,81,52,1,6,66,10,28,5],"text":["as.Date(date): 2020-11-24<br />n:   2<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2020-11-25<br />n:   6<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-02-25<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-04-13<br />n:   4<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-04-17<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-05-24<br />n:  17<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-21<br />n:  68<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-22<br />n:  50<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-23<br />n:  33<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-24<br />n:   4<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-25<br />n:   5<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-29<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-06-30<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-07-04<br />n:   3<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-07-12<br />n:  17<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-07-21<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-08-01<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-22<br />n:  60<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-23<br />n:  81<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-24<br />n:  52<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-25<br />n:   1<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-26<br />n:   6<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-27<br />n:  66<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-28<br />n:  10<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-09-30<br />n:  28<br />artistName: Dayglow<br />artistName: Dayglow","as.Date(date): 2021-10-01<br />n:   5<br />artistName: Dayglow<br />artistName: Dayglow"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(216,144,0,1)","dash":"solid"},"hoveron":"points","name":"Dayglow","legendgroup":"Dayglow","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(216,144,0,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(216,144,0,1)"}},"frame":null},{"x":[18556,18596,18597,18631,18814,18815,18816,18817,18819,18820,18821,18822,18823,18825,18828,18829,18842,18844,18854,18883,18884,18886,18891,18892,18897],"y":[1,57,16,29,2,34,36,8,14,11,1,13,19,19,22,13,11,1,18,10,48,12,13,7,16],"text":["as.Date(date): 2020-10-21<br />n:   1<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2020-11-30<br />n:  57<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2020-12-01<br />n:  16<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-01-04<br />n:  29<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-06<br />n:   2<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-07<br />n:  34<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-08<br />n:  36<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-09<br />n:   8<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-11<br />n:  14<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-12<br />n:  11<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-13<br />n:   1<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-14<br />n:  13<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-15<br />n:  19<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-17<br />n:  19<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-20<br />n:  22<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-07-21<br />n:  13<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-08-03<br />n:  11<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-08-05<br />n:   1<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-08-15<br />n:  18<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-09-13<br />n:  10<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-09-14<br />n:  48<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-09-16<br />n:  12<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-09-21<br />n:  13<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-09-22<br />n:   7<br />artistName: Delta Sleep<br />artistName: Delta Sleep","as.Date(date): 2021-09-27<br />n:  16<br />artistName: Delta Sleep<br />artistName: Delta Sleep"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(163,165,0,1)","dash":"solid"},"hoveron":"points","name":"Delta Sleep","legendgroup":"Delta Sleep","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(163,165,0,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(163,165,0,1)"}},"frame":null},{"x":[18784,18785,18786,18787,18788,18789,18790,18791,18792,18801,18802,18806,18810,18811,18845,18846,18847,18848,18851,18857,18876],"y":[15,52,51,35,69,50,14,7,1,28,11,27,71,28,13,57,11,20,20,27,15],"text":["as.Date(date): 2021-06-06<br />n:  15<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-07<br />n:  52<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-08<br />n:  51<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-09<br />n:  35<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-10<br />n:  69<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-11<br />n:  50<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-12<br />n:  14<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-13<br />n:   7<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-14<br />n:   1<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-23<br />n:  28<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-24<br />n:  11<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-06-28<br />n:  27<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-07-02<br />n:  71<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-07-03<br />n:  28<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-08-06<br />n:  13<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-08-07<br />n:  57<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-08-08<br />n:  11<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-08-09<br />n:  20<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-08-12<br />n:  20<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-08-18<br />n:  27<br />artistName: fingerspit<br />artistName: fingerspit","as.Date(date): 2021-09-06<br />n:  15<br />artistName: fingerspit<br />artistName: fingerspit"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(57,182,0,1)","dash":"solid"},"hoveron":"points","name":"fingerspit","legendgroup":"fingerspit","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(57,182,0,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(57,182,0,1)"}},"frame":null},{"x":[18624,18625,18626,18627,18628,18632,18634,18635,18638,18720,18750],"y":[2,2,26,16,4,12,214,11,14,1,16],"text":["as.Date(date): 2020-12-28<br />n:   2<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2020-12-29<br />n:   2<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2020-12-30<br />n:  26<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2020-12-31<br />n:  16<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-01-01<br />n:   4<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-01-05<br />n:  12<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-01-07<br />n: 214<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-01-08<br />n:  11<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-01-11<br />n:  14<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-04-03<br />n:   1<br />artistName: Kowloon<br />artistName: Kowloon","as.Date(date): 2021-05-03<br />n:  16<br />artistName: Kowloon<br />artistName: Kowloon"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(0,191,125,1)","dash":"solid"},"hoveron":"points","name":"Kowloon","legendgroup":"Kowloon","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(0,191,125,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(0,191,125,1)"}},"frame":null},{"x":[18541,18560,18574,18575,18576,18577,18588,18600,18603,18616,18662,18697,18700,18718,18720,18721,18722,18723,18724,18725,18726,18727,18728,18729,18730,18731,18738,18747,18750,18760,18798,18837,18838,18839,18840,18841,18845,18848,18849,18859,18864,18866,18877,18878,18885,18891,18898],"y":[1,1,1,1,1,5,1,2,1,1,3,4,2,56,7,44,28,45,37,134,58,21,11,19,24,3,1,1,2,1,1,2,3,2,3,1,2,1,2,2,1,2,5,2,1,2,1],"text":["as.Date(date): 2020-10-06<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-10-25<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-11-08<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-11-09<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-11-10<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-11-11<br />n:   5<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-11-22<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-12-04<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-12-07<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2020-12-20<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-02-04<br />n:   3<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-03-11<br />n:   4<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-03-14<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-01<br />n:  56<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-03<br />n:   7<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-04<br />n:  44<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-05<br />n:  28<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-06<br />n:  45<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-07<br />n:  37<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-08<br />n: 134<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-09<br />n:  58<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-10<br />n:  21<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-11<br />n:  11<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-12<br />n:  19<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-13<br />n:  24<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-14<br />n:   3<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-21<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-04-30<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-05-03<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-05-13<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-06-20<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-07-29<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-07-30<br />n:   3<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-07-31<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-01<br />n:   3<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-02<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-06<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-09<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-10<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-20<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-25<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-08-27<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-09-07<br />n:   5<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-09-08<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-09-15<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-09-21<br />n:   2<br />artistName: MadeinTYO<br />artistName: MadeinTYO","as.Date(date): 2021-09-28<br />n:   1<br />artistName: MadeinTYO<br />artistName: MadeinTYO"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(0,191,196,1)","dash":"solid"},"hoveron":"points","name":"MadeinTYO","legendgroup":"MadeinTYO","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(0,191,196,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(0,191,196,1)"}},"frame":null},{"x":[18746,18749,18750,18751,18752,18753,18754,18755,18756,18757,18758,18759,18760,18761,18764,18765,18779,18781,18782,18786,18787,18788,18793,18799,18840,18843,18846,18848,18856,18862],"y":[20,15,9,11,3,120,70,24,22,7,35,42,24,5,1,10,10,11,21,19,17,10,2,2,1,8,19,8,13,13],"text":["as.Date(date): 2021-04-29<br />n:  20<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-02<br />n:  15<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-03<br />n:   9<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-04<br />n:  11<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-05<br />n:   3<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-06<br />n: 120<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-07<br />n:  70<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-08<br />n:  24<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-09<br />n:  22<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-10<br />n:   7<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-11<br />n:  35<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-12<br />n:  42<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-13<br />n:  24<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-14<br />n:   5<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-17<br />n:   1<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-05-18<br />n:  10<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-01<br />n:  10<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-03<br />n:  11<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-04<br />n:  21<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-08<br />n:  19<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-09<br />n:  17<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-10<br />n:  10<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-15<br />n:   2<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-06-21<br />n:   2<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-08-01<br />n:   1<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-08-04<br />n:   8<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-08-07<br />n:  19<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-08-09<br />n:   8<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-08-17<br />n:  13<br />artistName: Modern Baseball<br />artistName: Modern Baseball","as.Date(date): 2021-08-23<br />n:  13<br />artistName: Modern Baseball<br />artistName: Modern Baseball"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(0,176,246,1)","dash":"solid"},"hoveron":"points","name":"Modern Baseball","legendgroup":"Modern Baseball","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(0,176,246,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(0,176,246,1)"}},"frame":null},{"x":[18590,18591,18597,18599,18610,18611,18612,18624,18642,18650,18651,18652,18653,18654,18655,18656,18657,18658,18659,18660,18670,18676,18677,18685,18734,18746,18793,18794,18799,18829,18834,18856,18861,18865,18866,18871,18872,18879,18900],"y":[1,1,1,2,31,1,4,1,1,15,107,48,85,69,93,42,11,10,24,61,7,4,13,1,8,1,30,45,2,1,1,13,17,82,3,17,54,2,4],"text":["as.Date(date): 2020-11-24<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-11-25<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-12-01<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-12-03<br />n:   2<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-12-14<br />n:  31<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-12-15<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-12-16<br />n:   4<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2020-12-28<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-15<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-23<br />n:  15<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-24<br />n: 107<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-25<br />n:  48<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-26<br />n:  85<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-27<br />n:  69<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-28<br />n:  93<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-29<br />n:  42<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-30<br />n:  11<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-01-31<br />n:  10<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-02-01<br />n:  24<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-02-02<br />n:  61<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-02-12<br />n:   7<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-02-18<br />n:   4<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-02-19<br />n:  13<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-02-27<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-04-17<br />n:   8<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-04-29<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-06-15<br />n:  30<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-06-16<br />n:  45<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-06-21<br />n:   2<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-07-21<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-07-26<br />n:   1<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-08-17<br />n:  13<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-08-22<br />n:  17<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-08-26<br />n:  82<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-08-27<br />n:   3<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-09-01<br />n:  17<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-09-02<br />n:  54<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-09-09<br />n:   2<br />artistName: No Vacation<br />artistName: No Vacation","as.Date(date): 2021-09-30<br />n:   4<br />artistName: No Vacation<br />artistName: No Vacation"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(149,144,255,1)","dash":"solid"},"hoveron":"points","name":"No Vacation","legendgroup":"No Vacation","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(149,144,255,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(149,144,255,1)"}},"frame":null},{"x":[18667,18668,18669,18670,18672,18673,18675,18676,18678,18679,18680,18681,18682,18684,18685,18686,18689,18693,18701,18702,18703,18729,18730,18769,18773,18775,18817,18818,18820,18823,18828,18829,18834,18835,18836,18858,18893,18898],"y":[2,26,39,38,4,11,37,37,5,2,18,33,10,5,16,33,3,14,10,1,1,14,15,7,10,1,16,10,18,21,19,8,3,6,4,9,1,17],"text":["as.Date(date): 2021-02-09<br />n:   2<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-10<br />n:  26<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-11<br />n:  39<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-12<br />n:  38<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-14<br />n:   4<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-15<br />n:  11<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-17<br />n:  37<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-18<br />n:  37<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-20<br />n:   5<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-21<br />n:   2<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-22<br />n:  18<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-23<br />n:  33<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-24<br />n:  10<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-26<br />n:   5<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-27<br />n:  16<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-02-28<br />n:  33<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-03-03<br />n:   3<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-03-07<br />n:  14<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-03-15<br />n:  10<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-03-16<br />n:   1<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-03-17<br />n:   1<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-04-12<br />n:  14<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-04-13<br />n:  15<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-05-22<br />n:   7<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-05-26<br />n:  10<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-05-28<br />n:   1<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-09<br />n:  16<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-10<br />n:  10<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-12<br />n:  18<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-15<br />n:  21<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-20<br />n:  19<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-21<br />n:   8<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-26<br />n:   3<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-27<br />n:   6<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-07-28<br />n:   4<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-08-19<br />n:   9<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-09-23<br />n:   1<br />artistName: Sea Power<br />artistName: Sea Power","as.Date(date): 2021-09-28<br />n:  17<br />artistName: Sea Power<br />artistName: Sea Power"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(231,107,243,1)","dash":"solid"},"hoveron":"points","name":"Sea Power","legendgroup":"Sea Power","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(231,107,243,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(231,107,243,1)"}},"frame":null},{"x":[18659,18661,18662,18663,18664,18665,18719,18720,18721,18722,18726,18727,18728,18730,18731,18732,18733,18734,18740,18776,18777,18795,18799,18824,18833,18835,18836,18842],"y":[1,53,59,2,5,23,10,39,15,15,14,13,2,7,7,4,15,2,7,1,1,1,2,1,1,3,1,1],"text":["as.Date(date): 2021-02-01<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-02-03<br />n:  53<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-02-04<br />n:  59<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-02-05<br />n:   2<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-02-06<br />n:   5<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-02-07<br />n:  23<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-02<br />n:  10<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-03<br />n:  39<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-04<br />n:  15<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-05<br />n:  15<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-09<br />n:  14<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-10<br />n:  13<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-11<br />n:   2<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-13<br />n:   7<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-14<br />n:   7<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-15<br />n:   4<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-16<br />n:  15<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-17<br />n:   2<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-04-23<br />n:   7<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-05-29<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-05-30<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-06-17<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-06-21<br />n:   2<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-07-16<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-07-25<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-07-27<br />n:   3<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-07-28<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing","as.Date(date): 2021-08-03<br />n:   1<br />artistName: Wild Nothing<br />artistName: Wild Nothing"],"type":"scatter","mode":"lines+markers","line":{"width":1.88976377952756,"color":"rgba(255,98,188,1)","dash":"solid"},"hoveron":"points","name":"Wild Nothing","legendgroup":"Wild Nothing","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","marker":{"autocolorscale":false,"color":"rgba(255,98,188,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(255,98,188,1)"}},"frame":null}],"layout":{"margin":{"t":43.7625570776256,"r":7.30593607305936,"b":47.9119078240267,"l":43.1050228310502},"plot_bgcolor":"rgba(235,235,235,1)","paper_bgcolor":"rgba(255,255,255,1)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"title":{"text":"Top 10 Artists of the Year: Number of Listens Per Day","font":{"color":"rgba(0,0,0,1)","family":"","size":17.5342465753425},"x":0,"xref":"paper"},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[18523,18919],"tickmode":"array","ticktext":["Oct-20","Nov-20","Dec-20","Jan-21","Feb-21","Mar-21","Apr-21","May-21","Jun-21","Jul-21","Aug-21","Sep-21","Oct-21"],"tickvals":[18536,18567,18597,18628,18659,18687,18718,18748,18779,18809,18840,18871,18901],"categoryorder":"array","categoryarray":["Oct-20","Nov-20","Dec-20","Jan-21","Feb-21","Mar-21","Apr-21","May-21","Jun-21","Jul-21","Aug-21","Sep-21","Oct-21"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.65296803652968,"tickwidth":0.66417600664176,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-45,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(255,255,255,1)","gridwidth":0.66417600664176,"zeroline":false,"anchor":"y","title":{"text":"Month-Year","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-9.65,224.65],"tickmode":"array","ticktext":["0","50","100","150","200"],"tickvals":[0,50,100,150,200],"categoryorder":"array","categoryarray":["0","50","100","150","200"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.65296803652968,"tickwidth":0.66417600664176,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(255,255,255,1)","gridwidth":0.66417600664176,"zeroline":false,"anchor":"x","title":{"text":"Number of Song Listens (> 60 seconds)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":true,"legend":{"bgcolor":"rgba(255,255,255,1)","bordercolor":"transparent","borderwidth":1.88976377952756,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.689497716895},"y":0.93503937007874},"annotations":[{"text":"artistName","x":1.02,"y":1,"showarrow":false,"ax":0,"ay":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"xref":"paper","yref":"paper","textangle":-0,"xanchor":"left","yanchor":"bottom","legendTitle":true}],"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","showSendToCloud":false},"source":"A","attrs":{"404816e26e86":{"x":{},"y":{},"colour":{},"type":"scatter"},"40482834918":{"x":{},"y":{},"colour":{}}},"cur_data":"404816e26e86","visdat":{"404816e26e86":["function (y) ","x"],"40482834918":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+![](Cody_spotify_stats_2021_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
-```r
+``` r
 ## subquery example, joining IS a form of filtering by another table
 subquery <- stream_data %>% 
     mutate(date = str_sub(endTime, 1, 10)) %>% 
@@ -182,16 +162,12 @@ subquery <- stream_data %>%
         head(10))
 ```
 
-```
-## Joining, by = "artistName"
-```
+    ## Joining, by = "artistName"
 
+##### compare most played artists this year to Summer Rewind playlists of 2019 and 2020
 
-##### compare most played artists this year to Summer Rewind playlists of 2019 and 2020 #####
+##### artist diversity
 
-##### artist diversity ######
+##### song diversity
 
-##### song diversity #####
-
-
-```
+\`\`\`

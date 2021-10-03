@@ -1,12 +1,12 @@
 ---
 title: "Cody's Spotify Stats 2021"
 output:
-  html_document:
-    keep_md: true
-    toc: true
+  rmarkdown::github_document
 ---
 
 # Confessions of a Song Repeater
+
+* My spotify song statistics from the last year
 
 ```{r include=FALSE}
 ##### create an in-memory sqlite database using DBI #####
@@ -162,13 +162,13 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
 * Counts of that artist per endDate through time
 
 ```{r}
-stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
-    # this is a shortcut subquery, technically
-    filter(artistName %in% res_freq_artists$artistName) %>% 
-    # 
-    group_by(date, artistName) %>% 
-    count %>% 
-    arrange(desc(n))
+# stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
+#     # this is a shortcut subquery, technically
+#     filter(artistName %in% res_freq_artists$artistName) %>% 
+#     # 
+#     group_by(date, artistName) %>% 
+#     count %>% 
+#     arrange(desc(n))
 
 ggplotly(
     stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
@@ -186,19 +186,19 @@ ggplotly(
     ylab('Number of Song Listens (> 60 seconds)') + 
     ggtitle('Top 10 Artists of the Year: Number of Listens Per Day')
 )
-
-## subquery example, joining IS a form of filtering by another table
-subquery <- stream_data %>% 
-    mutate(date = str_sub(endTime, 1, 10)) %>% 
-    # this is a shortcut subquery, technically
-    # filter out song listens that are less than 1 minute in length
-    right_join(., stream_data %>%
-        filter(msPlayed > (60 * 1000)) %>% 
-        group_by(artistName) %>% 
-        count %>% 
-        arrange(desc(n)) %>% 
-            select(artistName) %>% 
-        head(10))
+# 
+# ## subquery example, joining IS a form of filtering by another table
+# subquery <- stream_data %>% 
+#     mutate(date = str_sub(endTime, 1, 10)) %>% 
+#     # this is a shortcut subquery, technically
+#     # filter out song listens that are less than 1 minute in length
+#     right_join(., stream_data %>%
+#         filter(msPlayed > (60 * 1000)) %>% 
+#         group_by(artistName) %>% 
+#         count %>% 
+#         arrange(desc(n)) %>% 
+#             select(artistName) %>% 
+#         head(10))
 ```
 
 
