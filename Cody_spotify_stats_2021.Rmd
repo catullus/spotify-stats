@@ -1,11 +1,12 @@
 ---
 title: "Cody's Spotify Stats 2021"
 output:
-  github_document:
-      toc: true
-      toc_depth: 2
-always_allow_html: true
+  html_document:
+    keep_md: true
+    toc: true
 ---
+
+# Confessions of a Song Repeater
 
 ```{r include=FALSE}
 ##### create an in-memory sqlite database using DBI #####
