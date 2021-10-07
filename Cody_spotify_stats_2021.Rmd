@@ -9,6 +9,13 @@ output:
 * My spotify song statistics from the last year
 
 ```{r include=FALSE}
+# https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-25/readme.md
+# https://towardsdatascience.com/explore-your-activity-on-spotify-with-r-and-spotifyr-how-to-analyze-and-visualize-your-stream-dee41cb63526
+# https://datacarpentry.org/R-ecology-lesson/05-r-and-databases.html
+# https://medium.com/@skyetetra/pretending-to-have-a-sql-database-with-rstudio-e80d9a1338b1
+# https://cran.r-project.org/web/packages/dbparser/vignettes/Database_Saving.html
+# https://www.youtube.com/watch?v=E2Ld3QdXYZo
+
 ##### create an in-memory sqlite database using DBI #####
 # https://medium.com/@skyetetra/pretending-to-have-a-sql-database-with-rstudio-e80d9a1338b1
 
@@ -160,6 +167,7 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
 ### Of top 10 listened to artists, over what time period did I listen to them the most? 
 
 * Counts of that artist per endDate through time
+* This is much nicer to view as an interactive ggplotly chart (but GitHub doesn't quite render it)
 
 ```{r}
 # stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
@@ -170,7 +178,7 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
 #     count %>% 
 #     arrange(desc(n))
 
-ggplotly(
+plotly::ggplotly(
     stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
     # this is a shortcut subquery, technically
     # filter out song listens that are less than 1 minute in length
@@ -201,12 +209,33 @@ ggplotly(
 #         head(10))
 ```
 
+### Seasonal Song Repetition
 
+```{r}
+
+# Kowloon, MadeinTYO, Modern Baseball, No vacation, Sea Power
+
+    stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
+    # this is a shortcut subquery, technically
+    # filter out song listens that are less than 1 minute in length
+    filter(artistName %in% res_freq_artists$artistName & msPlayed > (60 * 1000)) %>% 
+    group_by(date, artistName) %>% 
+    count %>% 
+    ggplot(aes(x = as.Date(date), y = n, group = artistName, color = artistName)) +
+    geom_line() + 
+    geom_point() + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) + 
+    scale_x_date(date_breaks = "months" , date_labels = "%b-%y") +
+    xlab('Month-Year') + 
+    ylab('Number of Song Listens (> 60 seconds)') + 
+    ggtitle('Top 10 Artists of the Year: Number of Listens Per Day')
+
+```
+
+```{r include=FALSE}
 ##### compare most played artists this year to Summer Rewind playlists of 2019 and 2020 #####
 
 ##### artist diversity ######
 
 ##### song diversity #####
-
-
 ```

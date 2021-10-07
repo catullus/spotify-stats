@@ -97,33 +97,15 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
 <!-- end list -->
 
 ``` r
-stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
-    # this is a shortcut subquery, technically
-    filter(artistName %in% res_freq_artists$artistName) %>% 
-    # 
-    group_by(date, artistName) %>% 
-    count %>% 
-    arrange(desc(n))
-```
+# stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
+#     # this is a shortcut subquery, technically
+#     filter(artistName %in% res_freq_artists$artistName) %>% 
+#     # 
+#     group_by(date, artistName) %>% 
+#     count %>% 
+#     arrange(desc(n))
 
-    ## # A tibble: 312 x 3
-    ## # Groups:   date, artistName [312]
-    ##    date       artistName          n
-    ##    <chr>      <chr>           <int>
-    ##  1 2021-01-07 Kowloon           216
-    ##  2 2021-04-08 MadeinTYO         145
-    ##  3 2021-01-24 No Vacation       142
-    ##  4 2021-05-06 Modern Baseball   139
-    ##  5 2021-01-28 No Vacation       120
-    ##  6 2021-01-26 No Vacation        98
-    ##  7 2021-08-26 No Vacation        91
-    ##  8 2021-09-23 Dayglow            90
-    ##  9 2020-12-10 Current Joys       88
-    ## 10 2021-01-27 No Vacation        83
-    ## # ... with 302 more rows
-
-``` r
-ggplotly(
+#ggplotly(
     stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
     # this is a shortcut subquery, technically
     # filter out song listens that are less than 1 minute in length
@@ -138,31 +120,26 @@ ggplotly(
     xlab('Month-Year') + 
     ylab('Number of Song Listens (> 60 seconds)') + 
     ggtitle('Top 10 Artists of the Year: Number of Listens Per Day')
-)
 ```
-
-    ## Warning: `group_by_()` was deprecated in dplyr 0.7.0.
-    ## Please use `group_by()` instead.
-    ## See vignette('programming') for more help
 
 ![](Cody_spotify_stats_2021_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
 ``` r
-## subquery example, joining IS a form of filtering by another table
-subquery <- stream_data %>% 
-    mutate(date = str_sub(endTime, 1, 10)) %>% 
-    # this is a shortcut subquery, technically
-    # filter out song listens that are less than 1 minute in length
-    right_join(., stream_data %>%
-        filter(msPlayed > (60 * 1000)) %>% 
-        group_by(artistName) %>% 
-        count %>% 
-        arrange(desc(n)) %>% 
-            select(artistName) %>% 
-        head(10))
+#)
+# 
+# ## subquery example, joining IS a form of filtering by another table
+# subquery <- stream_data %>% 
+#     mutate(date = str_sub(endTime, 1, 10)) %>% 
+#     # this is a shortcut subquery, technically
+#     # filter out song listens that are less than 1 minute in length
+#     right_join(., stream_data %>%
+#         filter(msPlayed > (60 * 1000)) %>% 
+#         group_by(artistName) %>% 
+#         count %>% 
+#         arrange(desc(n)) %>% 
+#             select(artistName) %>% 
+#         head(10))
 ```
-
-    ## Joining, by = "artistName"
 
 ##### compare most played artists this year to Summer Rewind playlists of 2019 and 2020
 
