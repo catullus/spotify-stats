@@ -1,10 +1,10 @@
 ---
-title: "Cody's Spotify Stats 2021"
+title: "Amy's Spotify Stats 2021"
 output:
   rmarkdown::html_document
 ---
 
-# Confessions of a Song Repeater
+# Confessions of Amy
 
 * My spotify song statistics from the last year
 
@@ -28,7 +28,7 @@ library(plotly)
 
 con <- dbConnect(RSQLite::SQLite(), dbname = ":memory:")
 
-path_data <- 'data/raw/Cody'
+path_data <- 'data/raw/Amy'
 
 ### list certain types of files desired
 ## this JSON is flat
