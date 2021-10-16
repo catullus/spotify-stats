@@ -1,7 +1,8 @@
 ---
-title: "Cody's Spotify Stats 2021"
+title: "Cody's Spotify Listening Habits - 2021"
 output:
-  rmarkdown::html_document
+  github_document:
+    html_preview: true
 ---
 
 # Confessions of a Song Repeater
