@@ -195,7 +195,7 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
 * `NOTE` Opening this file in the `.html` format will display the following chart interactively. For instance, you can double-click a band name in the legend to spotlight those particular data points. 
 
 ```{r warning=FALSE}
-plotly::ggplotly(
+
     stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
     # this is a shortcut subquery, technically
     # filter out song listens that are less than 1 minute in length
@@ -210,7 +210,7 @@ plotly::ggplotly(
     xlab('Month-Year') + 
     ylab('Number of Song Listens (> 60 seconds)') + 
     ggtitle('Top 10 Artists of the Year: Number of Listens Per Day')
-)
+
 
 ```
 

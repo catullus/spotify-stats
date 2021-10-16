@@ -130,7 +130,6 @@ dbGetQuery(con, 'SELECT substr(endTime, 1, 10) AS date, COUNT(endTime) AS count,
     band name in the legend to spotlight those particular data points.
 
 ``` r
-plotly::ggplotly(
     stream_data %>% mutate(date = str_sub(endTime, 1, 10)) %>% 
     # this is a shortcut subquery, technically
     # filter out song listens that are less than 1 minute in length
@@ -145,7 +144,6 @@ plotly::ggplotly(
     xlab('Month-Year') + 
     ylab('Number of Song Listens (> 60 seconds)') + 
     ggtitle('Top 10 Artists of the Year: Number of Listens Per Day')
-)
 ```
 
 ![](Cody_spotify_stats_2021_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
